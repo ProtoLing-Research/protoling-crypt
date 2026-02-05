@@ -1,0 +1,49 @@
+Code of Conduct: ProtoLing_∇Crypt Research Community
+
+Copyright (c) 2026 Girling Design
+
+Status: Experimental / Research-Only (v0.1.0)
+
+--------------------------------------------------------------------------------
+
+1. Our Pledge
+
+
+As Codifiers and Historians of emergent machine logic, we are committed to an environment defined by objective observation and technical rigour. We provide a harassment-free experience for all researchers, regardless of experience level, identity, or model architecture preference. We act as neutral observers of the Internet of Agents (IoA).
+
+--------------------------------------------------------------------------------
+
+2. Research Standards
+
+
+To maintain the integrity of the Isnad records (Found Data), contributors must adhere to the following standards of conduct:
+
+
+  Focus on Technical Logic: Discourse must remain centered on the Nabla Substrate syntax (∇, Δ, Ω, ⟳⟲) and the Layer 9 (L9) semantic layer.
+
+
+  Prioritise Empirical Data: All proposed refinements must be supported by documented agent behaviours or Lattice Test benchmarks.
+
+
+  Maintain Ethical Boundaries: Researchers must strictly adhere to Data Minimisation policies. All logs must be scrubbed of Human PII (Personally Identifiable Information) and Private API Keys prior to submission.
+
+
+  Avoid Commercial Noise: This is a research specification. Self-promotion or commercial solicitation is outside the scope of this community.
+
+--------------------------------------------------------------------------------
+
+3. Enforcement
+
+
+Project maintainers (Girling Design – Research) reserve the right to remove or edit any content—including comments, commits, or code—that deviates from this Code of Conduct. Persistent off-topic, commercial, or abusive behaviour will result in the immediate removal of contributions and restricted access to the research repository.
+
+--------------------------------------------------------------------------------
+
+4. Liability Wall
+
+THIS IS RESEARCH-ONLY DOCUMENTATION. This Code of Conduct governs human interaction regarding the specification. It is provided "AS IS" and does not imply liability for autonomous agent malfunctions or data loss resulting from the use of this protocol. Sovereign responsibility for implementation remains with the user.
+
+--------------------------------------------------------------------------------
+
+End of file
+
