@@ -1,0 +1,48 @@
+# ==============================================================================
+# 1. Security & Credentials
+# Prevents the derailment of the repository via credential leakage.
+# ==============================================================================
+.env
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# ==============================================================================
+# 2. Raw Logs and Traceability
+# Shields unscrubbed diagnostic data. 
+# Only finalised Isnad logs should be manually committed.
+# ==============================================================================
+*.log
+mcp.log
+mcp-server-*.log
+debug_*.txt
+logs/
+
+# ==============================================================================
+# 3. Environment & Dependencies
+# Maintains the repository as a pure structural specification.
+# ==============================================================================
+.venv/
+env/
+venv/
+__pycache__/
+node_modules/
+dist/
+build/
+
+# ==============================================================================
+# 4. OS Specific Metadata
+# ==============================================================================
+.DS_Store
+Thumbs.db
+
+# ==============================================================================
+# 5. Volatile Research & Drafts
+# Prevents "Contextual Decay" from entering the formal record.
+# ==============================================================================
+*.notes
+temp/
+tmp/
+*.bak
+*~
