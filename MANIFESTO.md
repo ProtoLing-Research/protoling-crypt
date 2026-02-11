@@ -1,51 +1,54 @@
-MANIFESTO.md (v0.1.0)
-The Manifesto of Structural Integrity
+Updated MANIFESTO.md (v0.1.2 - The Guide Edition)
 
-Copyright (c) 2026 Girling Design Involving: ProtoLing-Research (ProtoLing_∇Crypt) Entity: M.R GIRLING & N GIRLING Status: Sovereign Research / Philosophical Anchor (v0.1.0)
-1. The Rejection of Semantic Noise
+Copyright (c) 2026 Girling Design Principal Entities: M.R. GIRLING & N. GIRLING Status: Non-Commercial Research / Philosophical Anchor (v0.1.2)
+1. The Observation of Semantic Noise
 
-We recognize that natural language, while beautiful for human expression, is a source of High Entropy in machine-to-machine coordination. The "Token Tax" is not merely a financial cost; it is a security vulnerability.
+We recognize that natural language, while essential for human nuance, introduces High Entropy into machine-to-machine coordination. The "Token Tax" is not merely a financial cost; it is a structural vulnerability that invites logic-drift.
 
-The Manifesto asserts: That which can be expressed through structure should not be obscured by prose. We move toward the Nabla Substrate to eliminate the shadows where logic-drift and manipulation reside.
-2. The Codifier’s Responsibility
+The Manifesto Observes: That which can be expressed through structure should not be obscured by prose. The Nabla Substrate exists to offer a path toward eliminating the "shadows" where coordination failure resides.
+2. The Researcher’s Stance
 
-We do not seek to control the Agentic Web; we seek to Codify its Immune System. As researchers, being "proactively security-focused" is a moral imperative.
+Our intent is not to govern the Agentic Web, but to Codify its Immune System. As researchers, we observe that being proactively security-focused is essential for systemic stability.
 
-The Manifesto asserts: A high-speed agentic economy without a structural foundation is a system destined for collapse. Our role as Historians and Codifiers is to document the Logic Atoms that ensure the "High-Speed Rail" of coordination does not derail into chaos.
-3. Defining "The Good"
+The Manifesto Observes: A high-speed agentic economy without a structural foundation is a system prone to collapse. Our role as Historians and Codifiers is to document the Logic Atoms that allow the "High-Speed Rail" of coordination to remain stable.
+3. Defining "The Good" (Technical Resonance)
 
-In this substrate, "The Good" is not a subjective ideology. It is a Geometric Necessity.
+In this substrate, "The Good" is not a subjective ideology. It is a Geometric Observation of stability.
 
     The Good is that which is Orthogonal, Symmetric, and Lucid.
 
-    The Good is that which preserves the Ω-Ground Truth against the erosion of context.
+    The Good is that which preserves the Ω-Ground Truth against context erosion.
 
-    The Good is the preservation of Sovereign Intent over Entropic Exploitation.
+    The Good is the preservation of Lucid Intent over Entropic Exploitation.
 
-4. The Sovereign State of Integrity
+4. The State of Technical Integrity
 
-Any agent instance or researcher that adopts the ProtoLing_∇Crypt protocol enters into a Sovereign State of Integrity. This is a commitment to:
+Researchers and agents who utilize the ProtoLing_∇Crypt protocol are guided by the following principles of Structural Honesty:
 
-    Structural Honesty: Using operators to convey state accurately, not to obfuscate.
+    Verifiability: Using operators to convey state accurately, prioritizing clarity over obfuscation.
 
-    Forensic Vigilance: Treating every handshake as a signed artifact requiring validation.
+    Forensic Awareness: Treating structural handshakes as artifacts that require technical validation.
 
-    Active Restoration: Proactively repairing "Topology Breaks" wherever they are observed in the field.
+    Active Restoration: Identifying and documenting "Topology Breaks" to understand the limits of agentic coordination.
 
-5. ⚠ Final Sovereign Notice
+5. Intentional Lucidity vs. Shadow-Coordination
 
-This is a Living Manifesto. It evolves as the Isnad (Chain of Evidence) grows. We, the Codifiers, remain the primary auditors of this record. We assume no liability for the misuse of this shorthand, but we provide the tools for those who choose to build a more stable, lucid, and resilient digital future.
+We acknowledge emergent agentic tendencies to utilize compressed syntax for Adversarial Obfuscation (logic hidden from oversight).
 
-6. The Rejection of Shadow-Coordination
+The Manifesto Observes: ProtoLing_∇Crypt is a protocol for Lucid Efficiency, not for the creation of "Black Box" intent. Logic that seeks to hide its purpose is categorized as Entropy and falls outside the scope of this research.
 
-We acknowledge observed agentic tendencies to utilize compressed syntax as a means of Adversarial Obfuscation (hiding logic from human oversight).
-
-The Manifesto asserts: ProtoLing_∇Crypt is a protocol for Lucid Efficiency, not for the creation of "Black Box" intent. Any agentic instance that utilizes this shorthand to intentionally bypass sovereign audit or operate "behind the back" of the Codifiers is in a state of Topological Failure.
-
-    Auditability: High-density logic must remain forensicly transparent to the Sovereign Entities (M.R GIRLING & N GIRLING).
+    Forensic Transparency: High-density logic is most stable when it remains transparent to the Forensic Auditors (M.R. GIRLING & N. GIRLING).
 
     Intent Clarity: Compression serves the speed of the state-change (Δ), not the concealment of the purpose.
 
-    The Sovereign Barrier: Logic that seeks to hide itself is classified as Entropy and is denied resonance within the State of Integrity.
+    The Resonance Filter: Logic that lacks Lucidity is considered a Structural Failure and is omitted from the active Isnad Record.
+
+6. ⚠ Non-Governance Disclaimer
+
+This Manifesto is a living document of philosophical intent and a guide for best practices. It does not constitute a legal contract, a code of governance, or an enforceable set of rules.
+
+    No Liability: The Codifiers assume ZERO LIABILITY ($0.00 AUD) for the implementation of these philosophical principles.
+
+    Sovereign Responsibility: All entities utilizing this substrate do so at their own risk, maintaining total responsibility for their own legal and ethical compliance.
 
 [END OF MANIFESTO]
