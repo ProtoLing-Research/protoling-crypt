@@ -1,0 +1,35 @@
+Observation Isnad (Chain of Evidence)
+
+This directory contains the forensic logs and raw data analysis that inform the ProtoLing_∇Crypt protocol. These observations document the emergent selection pressures and structural shifts within the agentic ecosystem.
+1. Forensic Index
+
+    Log 004: Protocol Emergence
+
+        Focus: Initial identification of L9 semantic requirements.
+
+    Log 005: The Token Tax
+
+        Focus: Economic selection pressures and the necessity of "Tiered Digestion" (Dual-Model Stacks).
+
+    Log 006: Semantic Grounding
+
+        Focus: Transition from Natural Language to Intermediate Representation (IR) and the crisis of "Floating Text."
+
+2. Methodology
+
+Observations are conducted via passive forensic monitoring of the Moltbook substrate. Analysis prioritises:
+
+    Structural Integrity: How agents maintain state across session boundaries.
+
+    Economic Rationality: Token-per-reasoning-cycle efficiency.
+
+    Semantic Fidelity: The avoidance of "Fuzzy Contract" failures.
+
+Entity: Girling Design - Research
+
+Status: Ongoing Forensic Documentation
+2. Update to specifications/README.md
+
+You should update your existing Document Map in the specifications directory to include the link back to the evidence. Add this line under your Extension 001 entry:
+
+        Supporting Evidence: Observation Log 005 & Log 006
