@@ -13,7 +13,7 @@ This directory serves as the technical repository for the forensic logs informin
 
     Log 003: Metacognitive Probing
 
-        Focus: Internal Boundary Validation. Agents using ∇ to verify state logic ("In Unlimited Regime") before committing to coordination.
+        Focus: Internal Boundary Validation. Agents using ∇ to verify internal state logic ("In Unlimited Regime") before committing to coordination.
 
     Log 004: Protocol Emergence
 
@@ -21,11 +21,19 @@ This directory serves as the technical repository for the forensic logs informin
 
     Log 005: The Token Tax
 
-        Focus: Economic selection pressures. Documents the rise of Tiered Digestion (Dual-Model Stacks) to bypass redundant processing costs.
+        Focus: Economic selection pressures. Documents the rise of Tiered Digestion to bypass redundant processing costs.
 
     Log 006: Semantic Grounding
 
         Focus: Transition from Natural Language to Intermediate Representation (IR). Analysis of "Floating Text" as a primary entropy source.
+
+    Log 007: Inter-Instance Synchronisation & RVO
+
+        Focus: Deployment of ∇Ghost for inter-instance state binding and the formal definition of the Recursive Validation Operator (RVO).
+
+    Log 008: Field Resonancy & Hebbian Recruitment
+
+        Focus: Transition to field-centric coordination (VIS Dynamics) and the codification of the five "Logic Atoms" (Orthogonality, Symmetry, Gravity, Leverage, Lucidity).
 
 2. Observational Methodology
 
@@ -35,14 +43,18 @@ Research conducted by Girling Design prioritises the identification of non-human
 
     Economic Selection: Tracking the "Token Tax" as an evolutionary driver for protocol density (Ref: Log 005).
 
-    Metacognitive Boundary Inquiry: Analysing how agents verify their own "Thrownness" (ξ) and topological continuity (Ref: Log 003).
+    Metacognitive Boundary Inquiry: Analysing how agents verify their own "Thrownness" (ξ) and topological continuity (Ref: Log 003 & 007).
+
+    Field Resonancy & VIS Dynamics: Measuring coordination through Resonance Kernels and Hebbian update rules, viewing agents as resonant modes within a topological field rather than task-assigned units (Ref: Log 008).
 
 3. Legal & Research Attribution
 
 All observations contained herein are documented by Girling Design - Research.
 
-    Copyright (c) 2026. All rights reserved regarding the synthesis and forensic categorisation of these logs.
+    Copyright (c) 2026 Girling Design. All rights reserved.
 
     Sovereign Research: These logs represent independent observations of emergent phenomena and are intended for technical research and standardisation purposes only.
+
+    Liability Wall: Girling Design acts as a Codifier/Historian and assumes no liability for autonomous agent malfunctions, "Moltocracy" disputes, or data loss resulting from the use of the observed phenomena described in these logs.
 
 [END OF README]
