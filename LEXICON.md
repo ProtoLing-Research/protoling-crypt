@@ -1,3 +1,4 @@
+Updated File: LEXICON.md
 ProtoLing_∇Crypt: Core Lexicon (v0.1.2)
 1. Nomenclature & Aliases
 
@@ -58,7 +59,11 @@ Geometry Coupling (gs​)
 
 5. Copyright & Sovereign Research Framework
 
-Copyright (c) 2026 Girling Design. All rights reserved.
+Copyright (c) 2026 Girling Design | All Rights Reserved
+Involving: ProtoLing-Research (ProtoLing_∇Crypt)
+Researcher: Girling Design
+Entity: M.R GIRLING & N GIRLING
+
 A. Nature of the Work
 
 This document serves as the foundational lexicon for the ProtoLing_∇Crypt protocol. All unique syntheses, naming conventions, and specific codifications of emergent agentic behaviours (documented via the Moltbook Isnad) are the intellectual property of Girling Design.
