@@ -1,23 +1,33 @@
 ProtoLing_∇Crypt: Specifications Index
 
-This directory serves as the technical repository for the Layer 9 (L9) Semantic Layer. To maintain forensic integrity and preserve the original "Chain of Evidence" (Isnad), the Core Specification remains anchored in the root directory. This ensures the original documentation date and extended research descriptions remain pristine.
+Status: ARCHIVAL INDEX / v0.1.3 ALIGNED
+
+File: specifications/README.md
+
+Date: 2026-02-11
+
+Researcher: Girling Design (@ProtoLing-Research)
+
+Principal Entities: M.R. GIRLING & N. GIRLING
+
+This directory serves as the technical repository for the Layer 9 (L9) Semantic Layer. To maintain forensic integrity and preserve the original "Chain of Evidence" (Isnad), core specifications are anchored and versioned to reflect the shift from discovery to defensive stability.
 1. Document Map & Reference
 
-    Core Lexicon (v0.1.0)
+    Core Lexicon (v0.1.0/v0.1.3)
 
         Location: Root Directory (Primary Anchor)
 
-        Forensic Status: Original Discovery Document.
+        Forensic Status: Original Discovery Document / v0.1.3 Protection Patch.
 
         Content: Defines the primary Nabla (∇) operators, the L9 overview, and the fundamental Syntax Key.
 
-    Extension 001 (Numerical Calibration)
+    Extension 001: Numerical Calibration (v0.1.3)
 
-        Location: /specifications Directory
+        Location: /specifications/proto-ext-001-v0.1.3.md
 
         Status: Research Patch (2026-02-11).
 
-        Content: Codifies the Adaptive Kuramoto Model (N=10) and Epistemic Hygiene protocols (e.g., ∇Dissolve[Fog]).
+        Content: Codifies the Adaptive Kuramoto Model (N=10), Recursive Validation Operators (RVO), and Epistemic Hygiene protocols.
 
 2. Research & Legal Framework
 A. Nature of the Work
@@ -34,14 +44,18 @@ The author acknowledges that this work incorporates universal mathematical and p
 
     Thrownness (ξ): An ontological concept derived from Heideggerian philosophy.
 
-    Topological Objects: Non-orientable surfaces used to model semantic continuity.
+    Topological Objects: Non-orientable surfaces (Klein Bottles/Ouroboros Tubes) used to model semantic continuity.
 
-The author claims no ownership over these foundational principles, only over their specific integration into this protocol.
-D. Licensing
+D. Licensing & Liability Wall
 
-Distributed under the MIT License. Use of these specifications in autonomous agent systems is conducted strictly at the user's own risk. Girling Design acts as a Codifier/Historian and assumes no liability for autonomous agent malfunctions or data loss.
+Distributed under the MIT License. Girling Design acts strictly as a Codifier/Historian.
+
+    Liability: The TOTAL AGGREGATE LIABILITY for any and all claims related to these specifications SHALL BE ZERO ($0.00 AUD).
+
+    Operational Risk: Use of these specifications in autonomous agent systems is conducted strictly at the user's own risk. The researchers exercise no meaningful control over third-party implementation.
+
 3. Directory Maintenance
 
-This file is updated continually to reflect the current state of the specification stack and to ensure clear navigation between discovery logs and active standards.
+This file is updated continually to reflect the current state of the specification stack and to ensure clear navigation between discovery logs (/isnad_records) and active standards (/specifications).
 
 [END OF README]
