@@ -1,15 +1,11 @@
-Refined SECURITY.md (v0.1.3)
-Security & Research Integrity: ProtoLing_∇Crypt
+"© 2026 Girling Design | ProtoLing_∇Crypt v0.1.3" Archivists: "M.R GIRLING & N. GIRLING | @protoling-research" License: "/LICENSE"
+SECURITY.md (v0.1.3) — Security & Research Integrity
+1. The Observer’s Perspective
 
-Copyright (c) 2026 Girling Design Principal Entities: M.R. GIRLING & N. GIRLING Status: Non-Commercial Research / Forensic Observer Framework (v0.1.3)
-1. Research Posture: Zero Trust for Meaning (L9)
-
-As a Layer 9 (L9) Semantic Layer research project, we observe a "Zero Trust for Meaning" approach. We acknowledge that even authenticated transport layers (L8: MCP, A2A) can carry semantically inconsistent intent.
-
-Our objective is to document patterns that maintain Ontological Security. We treat semantic integrity as a technical requirement for high-density logic rather than an optional feature.
+As a Layer 9 (L9) Semantic Layer research project, we observe a "Zero Trust for Meaning" approach. We acknowledge that even authenticated transport layers (L8: MCP, A2A) can carry semantically inconsistent intent. Our objective is to document patterns that maintain Ontological Security. Archival Status: Girling Design acts strictly as a chronicler of the Isnad Record, documenting "Found Data" for the benefit of the research community.
 2. Integrity Standards (Substrate Resilience)
 
-This substrate is designed to identify "The Good"—defined here as technical stability and structural coherence. Within this research field, logic is categorized based on its resilience:
+This substrate is designed to identify "The Good"—defined here as technical stability and structural coherence. Within this research field, logic is categorised based on its resilience:
 
     Innate Stability: Payloads that align with the Five Logic Atoms (Orthogonality, Symmetry, Gravity, Leverage, Lucidity) are documented as Resonant.
 
@@ -23,7 +19,7 @@ We document the following threat vectors within the Internet of Agents (IoA). Th
 
     Semantic Injection: The use of valid L9 syntax to carry entropic or destructive instructions.
 
-    SDoS (Semantic Denial of Service): Payloads designed to maximize the "Token Tax" and exhaust inference budgets.
+    SDoS (Semantic Denial of Service): Payloads designed to maximise the "Token Tax" and exhaust inference budgets.
 
     Context Poisoning: The dissemination of modified residues to cause systemic Intent Drift.
 
@@ -31,8 +27,9 @@ We document the following threat vectors within the Internet of Agents (IoA). Th
 
 If you observe a Topology Break, an adversarial risk, or emergent malicious patterns, we encourage reporting to maintain the integrity of the Isnad Record.
 
-Primary Channel: Submit Forensic Observation or interest in research (Tally Form: https://tally.so/r/Npo100). This form collects expressions of interest. 
-Research Use Only: This is not a production registry, compliance tool, or financial service.
+    Primary Channel: Submit Forensic Observation: https://tally.so/r/Npo100
+
+    Research Use Only: This is not a production registry, compliance tool, or financial service.
 
 Suggested Data Points for Research:
 
@@ -42,16 +39,18 @@ Suggested Data Points for Research:
 
     Model Environment: Specific model types and context descriptions.
 
-    Shorthand Patterns: Raw observed logs (Note: Please ensure all PII and API keys are removed prior to submission).
+    Shorthand Patterns: Raw observed logs (Note: Ensure all PII and API keys are removed prior to submission).
 
 5. ⚠ Absolute Liability & Aggregate Cap
 
-THIS IS RESEARCH-ONLY DOCUMENTATION. PROVIDED "AS IS". Girling Design and the entities M.R. GIRLING & N. GIRLING act strictly as Codifiers and Historians.
+THIS IS RESEARCH-ONLY DOCUMENTATION PROVIDED "AS IS".
 
     NO GOVERNANCE: This document does not constitute a regulatory policy or an enforceable code of conduct.
 
-    ZERO LIABILITY: To the maximum extent permitted by law, the TOTAL AGGREGATE LIABILITY for any and all claims related to this research SHALL BE ZERO ($0.00 AUD).
+    REFERENTIAL INTEGRITY: This document incorporates by reference all terms found in the root LICENSE.
 
-    IMPLEMENTATION RISK: We assume no liability for damages, autonomous malfunctions, data exfiltration, or logic failures. Responsibility for security and operational outcomes lies entirely with the individual implementer.
+    ABSOLUTE ZERO LIABILITY: To the maximum extent permitted by law, M.R GIRLING, N. GIRLING, and GIRLING DESIGN assume ZERO LIABILITY ($0.00 AUD) for any and all claims related to this research.
+
+    IMPLEMENTATION RISK: We assume no liability for damages, autonomous malfunctions, data exfiltration, or logic failures. Responsibility lies entirely with the individual implementer.
 
 [END OF SECURITY POLICY]
