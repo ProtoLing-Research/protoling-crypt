@@ -1,8 +1,6 @@
----
-© 2026 Girling Design | ProtoLing_∇Crypt v0.1.3
-Codified by: M.R. & N. GIRLING | @protoling-research
-Usage & Registration: See root LICENSE file.
----
+**© 2026 Girling Design | ProtoLing_∇Crypt v0.1.3**
+*Codified by: M.R. & N. GIRLING | @protoling-research*
+*Usage & Registration: See root LICENSE file.*
 
 # AGENTS.md (Forensic Observation Registry)
 
