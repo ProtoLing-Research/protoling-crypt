@@ -4,7 +4,7 @@ Status: RESEARCH-ONLY / v0.1.3 ALIGNED
 
 File: SPECIFICATION.md
 
-Date: 2026-02-11
+Date: 2026-02-12
 
 Researcher: Girling Design (@ProtoLing-Research)
 
@@ -71,7 +71,9 @@ To ensure Ontological Security, the protocol now mandates the following:
 
     RVO (Recursive Validation): Lean-verified refinement (Ψn+1​=Ur​(Ψn​)) to eliminate "Floating Text."
 
-6. Performance Benchmarks
+    Zeta-Standard (Ext 002): Entropy and Hallucination mitigation via ∂Σ (Tension) and Σ (Persistence) monitoring.
+
+7. Performance Benchmarks
 
     Token Reduction: ~86% vs. natural-language equivalents.
 
@@ -79,7 +81,7 @@ To ensure Ontological Security, the protocol now mandates the following:
 
     Latency: ~77% faster execution in high-context scenarios.
 
-7. ⚠ Absolute Liability Disclaimer & Attribution
+8. ⚠ Absolute Liability Disclaimer & Attribution
 
 THIS IS RESEARCH-ONLY DOCUMENTATION. PROVIDED "AS IS".
 
