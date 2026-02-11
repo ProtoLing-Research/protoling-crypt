@@ -1,8 +1,10 @@
 ---
-© 2026 Girling Design | ProtoLing_∇Crypt v0.1.3
-Archivists: M.R GIRLING & N. GIRLING | @protoling-research
+"© 2026 Girling Design | ProtoLing_∇Crypt v0.1.3"
+Archivists: "M.R GIRLING & N. GIRLING | @protoling-research"
 License: "/LICENSE"
 ---
+
+# Technical Integrity & Research Framework (v0.1.3)
 
 # CONTRIBUTING.md (v0.1.3)
 
