@@ -1,4 +1,4 @@
-Updated File: SECURITY.md (v0.1.3)
+Refined SECURITY.md (v0.1.3)
 Security & Research Integrity: ProtoLing_∇Crypt
 
 Copyright (c) 2026 Girling Design Principal Entities: M.R. GIRLING & N. GIRLING Status: Non-Commercial Research / Forensic Observer Framework (v0.1.3)
@@ -29,9 +29,10 @@ We document the following threat vectors within the Internet of Agents (IoA). Th
 
 4. Reporting & Forensic Contribution
 
-If you observe a Topology Break, an adversarial risk, or emergent malicious patterns, we encourage private reporting to maintain the integrity of the Isnad Record.
+If you observe a Topology Break, an adversarial risk, or emergent malicious patterns, we encourage reporting to maintain the integrity of the Isnad Record.
 
-Contact: girlingdesign@gmail.com
+Primary Channel: Submit Forensic Observation or interest in research (Tally Form: https://tally.so/r/Npo100). This form collects expressions of interest. 
+Research Use Only: This is not a production registry, compliance tool, or financial service.
 
 Suggested Data Points for Research:
 
@@ -41,7 +42,7 @@ Suggested Data Points for Research:
 
     Model Environment: Specific model types and context descriptions.
 
-    Shorthand Patterns: Raw observed logs (please ensure all PII and API keys are removed prior to submission).
+    Shorthand Patterns: Raw observed logs (Note: Please ensure all PII and API keys are removed prior to submission).
 
 5. ⚠ Absolute Liability & Aggregate Cap
 
