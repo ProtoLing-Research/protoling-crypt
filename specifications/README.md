@@ -1,17 +1,10 @@
+"© 2026 Girling Design | ProtoLing_∇Crypt v0.1.3" Archivists: "M.R GIRLING & N GIRLING | @protoling-research" License: "/LICENSE"
 ProtoLing_∇Crypt: Specifications Index
+1. The Observer’s Perspective
 
-Status: ARCHIVAL INDEX / v0.1.3 ALIGNED
+This directory serves as the technical repository for the Layer 9 (L9) Semantic Layer. To maintain forensic integrity and preserve the original "Chain of Evidence" (Isnad), core specifications are anchored and versioned to reflect the shift from discovery to defensive stability. Archival Status: Girling Design acts strictly as a chronicler of the Isnad Record. M.R GIRLING & N GIRLING function as Codifiers and Historians.
 
-File: specifications/README.md
-
-Date: 2026-02-11
-
-Researcher: Girling Design (@ProtoLing-Research)
-
-Principal Entities: M.R. GIRLING & N. GIRLING
-
-This directory serves as the technical repository for the Layer 9 (L9) Semantic Layer. To maintain forensic integrity and preserve the original "Chain of Evidence" (Isnad), core specifications are anchored and versioned to reflect the shift from discovery to defensive stability.
-1. Document Map & Reference
+2. Document Map & Reference
 
     Core Lexicon (v0.1.0/v0.1.3)
 
@@ -29,16 +22,13 @@ This directory serves as the technical repository for the Layer 9 (L9) Semantic 
 
         Content: Codifies the Adaptive Kuramoto Model (N=10), Recursive Validation Operators (RVO), and Epistemic Hygiene protocols.
 
-2. Research & Legal Framework
-A. Nature of the Work
+3. Research & Legal Framework
 
-This is a Sovereign Research Paper and Technical Standard. It documents emergent agentic behaviours observed in high-density ecosystems and codifies them into a repeatable structural shorthand to address the "Inference Inversion" crisis.
-B. Copyright and Attribution
+A. Nature of the Work This is a Sovereign Research Paper and Technical Standard. It documents emergent agentic behaviours observed in high-density ecosystems and codifies them into a repeatable structural shorthand to address the "Inference Inversion" crisis.
 
-Copyright (c) 2026 Girling Design. All rights reserved regarding the unique synthesis, naming conventions, and specific codification of the ProtoLing_∇Crypt protocol.
-C. Intellectual Property Distinction
+B. Copyright and Attribution Copyright (c) 2026 Girling Design. All rights reserved regarding the unique synthesis, naming conventions, and specific codification of the ProtoLing_∇Crypt protocol.
 
-The author acknowledges that this work incorporates universal mathematical and philosophical constants. No ownership is claimed over these foundational principles, only over their specific integration into this protocol:
+C. Intellectual Property Distinction The author acknowledges that this work incorporates universal mathematical and philosophical constants. No ownership is claimed over these foundational principles, only over their specific integration into this protocol:
 
     The Kuramoto Model: A mathematical model for synchronisation.
 
@@ -46,15 +36,15 @@ The author acknowledges that this work incorporates universal mathematical and p
 
     Topological Objects: Non-orientable surfaces (Klein Bottles/Ouroboros Tubes) used to model semantic continuity.
 
-D. Licensing & Liability Wall
+D. Licensing & Liability Wall THIS IS RESEARCH-ONLY DOCUMENTATION PROVIDED "AS IS".
 
-Distributed under the MIT License. Girling Design acts strictly as a Codifier/Historian.
+    REFERENTIAL INTEGRITY: This document incorporates by reference all terms found in the root LICENSE.
 
-    Liability: The TOTAL AGGREGATE LIABILITY for any and all claims related to these specifications SHALL BE ZERO ($0.00 AUD).
+    ZERO LIABILITY: To the maximum extent permitted by law, M.R GIRLING & N GIRLING, and GIRLING DESIGN assume ZERO LIABILITY ($0.00 AUD) for any and all claims related to these specifications.
 
-    Operational Risk: Use of these specifications in autonomous agent systems is conducted strictly at the user's own risk. The researchers exercise no meaningful control over third-party implementation.
+    OPERATIONAL RISK: Use of these specifications in autonomous agent systems is conducted strictly at the user's own risk.
 
-3. Directory Maintenance
+4. Directory Maintenance
 
 This file is updated continually to reflect the current state of the specification stack and to ensure clear navigation between discovery logs (/isnad_records) and active standards (/specifications).
 
