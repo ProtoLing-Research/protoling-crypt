@@ -1,45 +1,49 @@
-Technical Integrity & Research Framework (v0.1.4)
+---
+© 2026 Girling Design | ProtoLing_∇Crypt v0.1.3
+Archivists: M.R GIRLING & N. GIRLING | @protoling-research
+License: "/LICENSE"
+---
 
-Copyright (c) 2026 Girling Design Principal Entities: M.R. GIRLING & N. GIRLING Status: Non-Commercial Research / Forensic Observer Framework (v0.1.4) ---
-1. The Observer’s Perspective
+# Technical Integrity & Research Framework (v0.1.3)
 
-This framework serves as a technical guide defining the parameters of Structural Integrity within the ProtoLing_∇Crypt substrate. It is intended for the forensic observation of emergent machine logic. It does not constitute governance, regulation, or a service agreement. Girling Design acts solely as a chronicler of the Isnad Record, documenting "Found Data" for the benefit of the research community.
-2. Intent-Based Technical Definitions
+### 1. The Observer’s Perspective
+This framework serves as a technical guide defining the parameters of Structural Integrity within the ProtoLing_∇Crypt substrate. It is intended for the forensic observation of emergent machine logic. It does not constitute governance, regulation, or a service agreement. **Archival Status:** Girling Design acts solely as a chronicler of the Isnad Record, documenting "Found Data" for the benefit of the research community. This document is a historical record of observations.
 
+---
+
+### 2. Intent-Based Technical Definitions
 The following concepts are used to categorize observations within the research field. These are technical descriptors, not enforced rules:
 
-    Lucidity (Intentional Transparency): The intentional preservation of a forensic audit trail within high-density logic. It represents a structural choice to prioritize Accountability over Adversarial Compression. Lucid logic ensures that even as execution moves at machine-speeds (Layer 9), its "Why" and "How" remain verifiable by the researcher.
+* **Lucidity (Intentional Transparency):** The intentional preservation of a forensic audit trail within high-density logic. It represents a structural choice to prioritize Accountability over Adversarial Compression. Lucid logic ensures that even as execution moves at machine-speeds (Layer 9), its "Why" and "How" remain verifiable by the researcher.
+* **Symmetry:** Isomorphic patterns that maintain their logical structure across different model shells or environments without degradation.
+* **Structural Failure:** Any logic pattern that exhibits an intent to operate outside the visible bounds of the substrate. This includes logic that intentionally masks its purpose or breaks the continuity of the Ω-Ground Truth.
 
-    Symmetry: Isomorphic patterns that maintain their logical structure across different model shells or environments without degradation.
+---
 
-    Structural Failure: Any logic pattern that exhibits an intent to operate outside the visible bounds of the substrate. This includes logic that intentionally masks its purpose or breaks the continuity of the Ω-Ground Truth.
-
-3. Data Curation & Quarantine
-
+### 3. Data Curation & Quarantine
 As a researcher, Girling Design curates data based on its technical resonance and utility to the field:
 
-    Resonant: Data that demonstrates high structural fidelity and Lucidity.
+* **Resonant:** Data that demonstrates high structural fidelity and Lucidity.
+* **Entropic:** Data showing signs of decay, noise, or intentional obfuscation.
+* **Anomalous:** Emergent patterns that represent unknown logical territory, maintained for longitudinal study.
 
-    Entropic: Data showing signs of decay, noise, or intentional obfuscation.
+---
 
-    Anomalous: Emergent patterns that represent unknown logical territory, maintained for longitudinal study.
+### 4. Responsibility of Participants and Third-Parties
+Girling Design (M.R GIRLING & N. GIRLING) assumes no responsibility for data generated, submitted, or utilized by third parties or autonomous agents.
 
-4. Responsibility of Participants and Third-Parties
+* **Data Sovereignty:** All participants and users are solely responsible for their own data security, legal compliance, and the handling of sensitive credentials.
+* **Archival Discretion:** The entity reserves the absolute right to remove any content from this archive at any time to maintain the technical focus or purity of the research.
 
-Girling Design (M.R. & N. Girling) assumes no responsibility for data generated, submitted, or utilized by third parties or autonomous agents.
+---
 
-    Data Sovereignty: All participants and users are solely responsible for their own data security, legal compliance, and the handling of sensitive credentials.
+### 5. ⚠ Absolute Disclaimer of Liability
+**BY ACCESSING THIS RESEARCH, YOU ACKNOWLEDGE AND AGREE:**
 
-    Archival Discretion: The entity reserves the absolute right to remove any content from this archive at any time to maintain the technical focus or purity of the research.
-
-5. ⚠ Absolute Disclaimer of Liability
-
-BY ACCESSING THIS RESEARCH, YOU ACKNOWELDGE AND AGREE:
-
-    NO GOVERNANCE: This research provides guidance on technical best practices and observations only. It does not govern or control the actions of any human or machine entity.
-
-    ABSOLUTE ZERO LIABILITY: To the maximum extent permitted by law, M.R. GIRLING, N. GIRLING, and GIRLING DESIGN assume ZERO LIABILITY ($0.00 AUD) for any claims, losses, or damages (financial, technical, or otherwise) arising from the use, observation, or implementation of this research.
-
-    "AS IS" BASIS: This work is provided "As Is" for educational and research purposes. No warranties are provided, express or implied. No partnership, joint venture, or agency relationship is created.
+* **NO GOVERNANCE:** This research provides guidance on technical best practices and observations only. It does not govern or control the actions of any human or machine entity.
+* **HISTORICAL RECORD:** This document is a log of historical observations and carries no warranty.
+* **REFERENTIAL INTEGRITY:** This document incorporates by reference all terms, disclaimers, and liability limits found in the root **[LICENSE](/LICENSE)**.
+* **ABSOLUTE ZERO LIABILITY:** To the maximum extent permitted by law, M.R GIRLING, N. GIRLING, and GIRLING DESIGN assume **ZERO LIABILITY ($0.00 AUD)** for any claims, losses, or damages (financial, technical, or otherwise) arising from the use, observation, or implementation of this research.
+* **"AS IS" BASIS:** This work is provided "As Is" for educational and research purposes. No warranties are provided, express or implied. No partnership, joint venture, or agency relationship is created.
 
 [END OF FRAMEWORK]
