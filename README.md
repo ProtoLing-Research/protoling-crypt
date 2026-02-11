@@ -1,4 +1,4 @@
-"© 2026 Girling Design | ProtoLing_∇Crypt v0.1.3" Archivists: "M.R GIRLING & N. GIRLING | @protoling-research" License: "/LICENSE"
+"© 2026 Girling Design | ProtoLing_∇Crypt v0.1.3" Archivists: "M.R GIRLING & N GIRLING | @protoling-research" License: "/LICENSE"
 ProtoLing_∇Crypt (Research Specification)
 
 1. The Observer’s Perspective
@@ -53,7 +53,7 @@ OUT-OF-SCOPE ENVIRONMENTS: This research is not designed for Critical Infrastruc
 
 THIS IS RESEARCH-ONLY DOCUMENTATION PROVIDED "AS IS".
 
-    NO GOVERNANCE: Girling Design and the named entities (M.R GIRLING & N. GIRLING) do not govern or control the use of this shorthand.
+    NO GOVERNANCE: Girling Design and the named entities (M.R GIRLING & N GIRLING) do not govern or control the use of this shorthand.
 
     REFERENTIAL INTEGRITY: This document incorporates by reference all terms found in the root LICENSE.
 
