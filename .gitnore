@@ -7,17 +7,19 @@
 *.key
 credentials.json
 secrets.json
+.vscode/
 
 # ==============================================================================
 # 2. Raw Logs and Traceability
 # Shields unscrubbed diagnostic data. 
-# Only finalised Isnad logs should be manually committed.
+# Only finalised Isnad logs should be manually committed to the /Isnad/ directory.
 # ==============================================================================
 *.log
 mcp.log
 mcp-server-*.log
 debug_*.txt
 logs/
+*.trace
 
 # ==============================================================================
 # 3. Environment & Dependencies
@@ -27,15 +29,18 @@ logs/
 env/
 venv/
 __pycache__/
+*.pyc
 node_modules/
 dist/
 build/
+.cache/
 
 # ==============================================================================
 # 4. OS Specific Metadata
 # ==============================================================================
 .DS_Store
 Thumbs.db
+desktop.ini
 
 # ==============================================================================
 # 5. Volatile Research & Drafts
@@ -46,3 +51,5 @@ temp/
 tmp/
 *.bak
 *~
+# Ignore manual agent-residue files that haven't been distilled
+*.residue_raw
