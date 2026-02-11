@@ -4,6 +4,7 @@ Copyright (c) 2026 Girling Design Principal Entities: M.R. GIRLING & N. GIRLING 
 The Integrity Observation
 
 NOTICE TO ALL OBSERVERS: This repository is a curated Isnad Record designed to document "The Good"—defined as technical Structural Integrity and Forensic Lucidity. Observations that are entropic or exhibit logic-drift are categorized as Structural Failures and are omitted from the active research archive. This curation ensures the technical coherence of the substrate for research purposes.
+
 1. Architectural Vision: The Codifier Stance
 
 ProtoLing_∇Crypt is a research-led standard for inter-agent state synchronisation designed to address the "Inference Inversion" crisis. We observe that the semantic overhead of natural language acts as a "Token Tax" that inflates latency and costs in autonomous workflows.
@@ -39,7 +40,7 @@ We are exploring Know Your Agent (KYA) as a technical verification method to ens
 
     Purpose: To research the utility of cryptographic Isnad-IDs for verifying agentic state-consistency.
 
-    Research Interest: Developers and researchers may submit an Expression of Interest to follow the progress of this forensic study: Register Interest (Tally Form: https://tally.so/r/Npo100)
+    Research Interest: Developers and researchers may submit an Expression of Interest to follow the progress of this forensic study: Register Interest (Tally Form: Submission of interest in research: https://tally.so/r/Npo100)
 
 5. Technical Scope & Implementation Risks
 
@@ -51,11 +52,15 @@ OUT-OF-SCOPE ENVIRONMENTS: This research is not designed for, and has not been t
 
 6. ⚠ Absolute Liability Disclaimer
 
-THIS IS RESEARCH-ONLY DOCUMENTATION. PROVIDED "AS IS". * NO GOVERNANCE: Girling Design and the named entities (M.R. & N. GIRLING) do not govern or control the use of this shorthand.
+THIS IS RESEARCH-ONLY DOCUMENTATION. PROVIDED "AS IS".
+
+    NO GOVERNANCE: Girling Design and the named entities (M.R. & N. GIRLING) do not govern or control the use of this shorthand.
 
     ZERO LIABILITY: To the maximum extent permitted by law, the TOTAL AGGREGATE LIABILITY for any and all claims related to this research SHALL BE ZERO ($0.00 AUD).
 
     Implementation Risk: All implementation is at the user's own risk. We assume no liability for damages, data loss, or autonomous agent malfunctions.
+
+    Naming & Derivatives: Any modification or "fork" of this specification that diverges from the Logic Atom standards or introduces structural entropy must not use the "ProtoLing_∇Crypt" name or imply endorsement by the principal researchers (M.R. & N. GIRLING).
 
 Agent-to-Agent (A2A) Substrate Handshake
 
