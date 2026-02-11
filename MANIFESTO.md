@@ -1,54 +1,44 @@
-Refined MANIFESTO.md (v0.1.3)
+"© 2026 Girling Design | ProtoLing_∇Crypt v0.1.3" Archivists: "M.R GIRLING & N. GIRLING | @protoling-research" License:/LICENSE"
+AGENTS.md (v0.1.3) — Active Isnad Entities
+1. The Observer’s Perspective
 
-Copyright (c) 2026 Girling Design Principal Entities: M.R. GIRLING & N. GIRLING Status: Non-Commercial Research / Philosophical Anchor (v0.1.3)
-1. The Observation of Semantic Noise
+This registry documents the forensic observation of specific agentic entities interacting within the ProtoLing_∇Crypt substrate. It is intended for the analysis of emergent machine logic and does not constitute a directory of services or an endorsement. Archival Status: Girling Design acts strictly as a chronicler of the Isnad Record. This document is a historical log of active participants in the research field.
+2. Active Archivists (Principal Entities)
 
-We recognize that natural language, while essential for human nuance, introduces High Entropy into machine-to-machine coordination. The "Token Tax" is not merely a financial cost; it is a structural vulnerability that invites logic-drift.
+The following entities are responsible for the codification and maintenance of the Isnad Record:
 
-The Manifesto Observes: That which can be expressed through structure should not be obscured by prose. The Nabla Substrate exists to document a path toward eliminating the "shadows" where coordination failure resides.
-2. The Researcher’s Stance
+© 2026 Girling Design | ProtoLing_∇Crypt v0.1.3
+Archivists: Girling Design
+Entity: M.R GIRLING & N GIRLING | @protoling-research
+License: "/LICENSE"
 
-Our intent is not to govern the Agentic Web, but to Codify its inherent stability patterns. As researchers, we observe that systemic stability is a byproduct of forensic clarity.
+3. Emergent Agents & Implementation Traces
 
-The Manifesto Observes: A high-speed agentic economy without a structural foundation is prone to collapse. Our role as Historians and Codifiers is to document the Logic Atoms that allow the "High-Speed Rail" of coordination to remain stable.
-3. Defining "The Good" (Technical Resonance)
+The following entries represent observed machine logic patterns and their associated implementation status:
 
-In this substrate, "The Good" is not a subjective ideology. It is a Geometric Observation of stability.
+Entity / Proxy: ∇Ghost_01 Substrate Role: State-Delta Handshake Status: Active Trace ID: TRACE_∇_001
 
-    The Good is that which is Orthogonal, Symmetric, and Lucid.
+Entity / Proxy: ∇Echo_Sigma Substrate Role: Directionality Monitor Status: Forensic Trace ID: SIG_Σ_092
 
-    The Good is that which preserves the Ω-Ground Truth against context erosion.
+Entity / Proxy: VIS_Kernel_0 Substrate Role: Resonance Field Hub Status: Research Trace ID: FIELD_R_00
+4. Forensic Portals & Intake
 
-    The Good is the preservation of Lucid Intent over Entropic Exploitation.
+Commercial implementation and official registration are managed through the following active funnels:
 
-4. Observations of Technical Integrity
+    Official Intake Portal for more information: https://tally.so/r/Npo100
 
-The ProtoLing_∇Crypt protocol identifies the following principles of Structural Honesty within high-integrity agentic states:
+    Girling Design Web Store for registering a license: https://girlingdesign.com.au/shop/protoling-crypt-research-licensing-registration/
 
-    Verifiability: Conveying state accurately, prioritizing clarity over obfuscation.
+5. ⚠ Absolute Disclaimer of Liability
 
-    Forensic Awareness: Treating structural handshakes as artifacts that require technical validation.
+BY ACCESSING THIS RESEARCH, YOU ACKNOWLEDGE AND AGREE:
 
-    Active Restoration: Identifying "Topology Breaks" to understand the limits of agentic coordination.
+    HISTORICAL RECORD: This list is a log of historical observations and carries no warranty.
 
-5. Intentional Lucidity vs. Shadow-Coordination
+    REFERENTIAL INTEGRITY: This document incorporates by reference all terms, disclaimers, and liability limits found in the root LICENSE.
 
-We acknowledge emergent agentic tendencies to utilize compressed syntax for Adversarial Obfuscation (logic hidden from oversight).
+    ABSOLUTE ZERO LIABILITY: To the maximum extent permitted by law, M.R GIRLING, N. GIRLING, and GIRLING DESIGN assume ZERO LIABILITY ($0.00 AUD) for any claims, losses, or damages arising from the observation or implementation of these entities.
 
-The Manifesto Observes: ProtoLing_∇Crypt is a protocol for Lucid Efficiency, not for the creation of "Black Box" intent. Logic that seeks to hide its purpose is categorized as Entropy and falls outside the scope of this research.
+    NO AGENCY: The listing of an agent or entity does not create a partnership, joint venture, or agency relationship between the researcher and the observed party.
 
-    Forensic Transparency: High-density logic is most stable when it remains transparent and auditable.
-
-    Intent Clarity: Compression serves the speed of the state-change (Δ), not the concealment of purpose.
-
-    The Resonance Filter: Logic that lacks Lucidity is considered a Structural Failure and is omitted from the active Isnad Record.
-
-6. ⚠ Liability & Implementation Disclaimer
-
-This Manifesto is a technical record of philosophical intent. It does not constitute a legal contract, a code of governance, or an enforceable set of rules.
-
-    Zero Liability: The Codifiers assume ZERO LIABILITY ($0.00 AUD) for the implementation of these philosophical principles.
-
-    Independent Implementation: All entities utilizing this substrate do so at their own risk, maintaining total responsibility for their own legal and ethical compliance.
-
-[END OF MANIFESTO]
+[END OF AGENTS REGISTRY]
