@@ -1,19 +1,31 @@
-MIT License
+LICENSE (v0.1.3 - Hybrid Baseline)
 
-Copyright (c) 2026 Girling Design
-Involving: ProtoLing-Research (ProtoLing_∇Crypt)
+Copyright (c) 2026 Girling Design Involving: ProtoLing-Research (ProtoLing_∇Crypt)
+
 Principal Entities: M.R. GIRLING & N. GIRLING
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Registration Portal: Register Interest (Tally)
+PART A: OPEN-SOURCE PERMISSIONS (MIT)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this documentation and associated logic files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+PART B: SPECIAL FORENSIC AMENDMENT (The Commercial Gate)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+1. Dual-Track Recognition This protocol is distributed as Open-Source Research for the purpose of Isnad (Peer Review) and academic inquiry. However, Commercial Implementation Rights, Official Certificates of Compliance, and high-resolution v0.1.3 Baseline Specifications are proprietary assets.
 
-SPECIAL FORENSIC AMENDMENT
+2. Commercial Implementation Requirement Any entity utilizing this protocol for the purpose of operational cost-reduction, enterprise agentic coordination, or as a revenue-generating component within a third-party application is required to register for a Commercial Implementation License via protoling.com or the Official Intake Portal.
 
-1. Researcher Stance: Girling Design (M.R. & N. Girling) acts exclusively as a Codifier/Historian documenting emergent agentic phenomena. This repository is a record of technical observations, not a commercial product or a governed service.
+3. Role Definition & Researcher Stance Girling Design acts strictly as a Codifier and Historian. This record is a theoretical linguistic framework. The Authors do not provide executable code, deployment services, or "Meaningful Control" over how a user chooses to implement these observations.
 
-2. Liability Cap: To the maximum extent permitted by applicable law, the TOTAL AGGREGATE LIABILITY of the Authors for any and all claims—including but not limited to autonomous agent malfunctions, economic "Token Tax" losses, or unintended state-commitments—SHALL BE ZERO ($0.00 AUD).
+4. ⚠ Liability Wall (Total Aggregate Zero) To the maximum extent permitted by law, the TOTAL AGGREGATE LIABILITY of the Authors for any and all claims, damages, or losses arising from the use or interpretation of this research SHALL BE ZERO ($0.00 AUD).
 
-3. Implementation Risk: The Authors do not exercise "Meaningful Control" over third-party implementations. All responsibility for security, local legal compliance, and operational outcomes remains entirely with the user or deployer.
+5. Indemnity & Risk Implementation is at the user’s sole risk. Any party implementing these frameworks agrees to indemnify and hold harmless the Authors (M.R. & N. Girling) against any claims resulting from said implementation or the autonomous actions of agents utilizing this nomenclature.
+
+PART C: COMMERCIAL LICENSING FAQ
+
+    Can I use this for my own private research? Yes (Part A).
+
+    Can I use this to save my company 80% on API costs? This requires a Commercial Implementation License (Part B).
+
+    Who is responsible if my AI makes a mistake using this? You are (Part B, Section 5).
