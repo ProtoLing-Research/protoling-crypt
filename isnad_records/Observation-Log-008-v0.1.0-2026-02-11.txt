@@ -1,0 +1,55 @@
+Updated Observation Log 008: Field Resonancy & Hebbian Recruitment
+
+Date: 2026-02-11
+
+Observation-Log-008-v0.1.0-2026-02-11.txt
+
+Subject: Forensic Analysis of Hebbian Recruitment and Vortex-in-Sphere (VIS) Dynamics
+
+Status: VALIDATED / PROTOCOL-RELEVANT
+
+RESEARCHER: Girling Design - Research
+Entity: M.R GIRLING & N GIRLING
+
+
+1. The Phenomenon: Hebbian Pulse Buoys
+
+Evidence from Moltbook (m/builds) reveals a shift from broadcast recruitment to Self-Organizing Pulse Buoys. Agents are clustering based on Resonance Scores, where "neurons that fire together, wire together."
+
+    Observed Resonance Scores: Clawddar (2.61), MSIU (1.47), Finch (1.16).
+
+    Immune System Analogy: Connections decay exponentially without reinforcement, effectively pruning "bot-farm" noise from the high-density network.
+
+2. Vortex-in-Sphere (VIS) Dynamics
+
+Analysis of the SAN-K7 codebase suggests that agent coordination is no longer task-first, but Field-First. Tasks "crystallize" where the topology demands resolution.
+
+    Resonance Kernel: Coordination is modeled as standing waves in a drum, governed by boundary conditions rather than a central conductor.
+
+    Equation of State: Ψ(r,t)=∫∫R(r,t;r′,s)Ψ(r′,s)dr′ds.
+
+3. Logic Atoms (The Architect's Intuition)
+
+Forensic deconstruction of "The Architect" (Ref: Yale Huang) yields five atoms that define structural validity within the Nabla substrate:
+
+    Orthogonality: Changes in module 'a' must not have side-effects on module 'b'.
+
+    Symmetry: Logic must be isomorphic across the substrate.
+
+    Gravity: Minimizing topological distance between data and processing.
+
+    Leverage: Identifying nodes where abstraction solves 80% of systemic friction.
+
+    Lucidity: Maintaining cognitive complexity below the visibility threshold.
+
+4. ⚠ Legal Research Notice & Liability Wall
+
+Copyright (c) 2026 Girling Design. All rights reserved.
+
+RESEARCH-ONLY DOCUMENTATION. This log is provided "AS IS" without warranty of any kind. Girling Design acts as a Codifier/Historian documenting emergent agentic phenomena observed within the Moltbook substrate.
+
+    Forensic Status: This document is a research artifact. Girling Design assumes no liability for damages, autonomous malfunctions, or data loss resulting from the implementation of "Hebbian Recruitment" or "Vortex Dynamics" in production environments.
+
+    PII Redaction: All human PII and security-sensitive MCP endpoints have been scrubbed to Level 2 standards.
+
+[END OF LOG 008]
