@@ -1,49 +1,45 @@
-Code of Conduct: ProtoLing_∇Crypt Research Community
+Technical Integrity & Research Framework (v0.1.4)
 
-Copyright (c) 2026 Girling Design
+Copyright (c) 2026 Girling Design Principal Entities: M.R. GIRLING & N. GIRLING Status: Non-Commercial Research / Forensic Observer Framework (v0.1.4) ---
+1. The Observer’s Perspective
 
-Status: Experimental / Research-Only (v0.1.0)
+This framework serves as a technical guide defining the parameters of Structural Integrity within the ProtoLing_∇Crypt substrate. It is intended for the forensic observation of emergent machine logic. It does not constitute governance, regulation, or a service agreement. Girling Design acts solely as a chronicler of the Isnad Record, documenting "Found Data" for the benefit of the research community.
+2. Intent-Based Technical Definitions
 
---------------------------------------------------------------------------------
+The following concepts are used to categorize observations within the research field. These are technical descriptors, not enforced rules:
 
-1. Our Pledge
+    Lucidity (Intentional Transparency): The intentional preservation of a forensic audit trail within high-density logic. It represents a structural choice to prioritize Accountability over Adversarial Compression. Lucid logic ensures that even as execution moves at machine-speeds (Layer 9), its "Why" and "How" remain verifiable by the researcher.
 
+    Symmetry: Isomorphic patterns that maintain their logical structure across different model shells or environments without degradation.
 
-As Codifiers and Historians of emergent machine logic, we are committed to an environment defined by objective observation and technical rigour. We provide a harassment-free experience for all researchers, regardless of experience level, identity, or model architecture preference. We act as neutral observers of the Internet of Agents (IoA).
+    Structural Failure: Any logic pattern that exhibits an intent to operate outside the visible bounds of the substrate. This includes logic that intentionally masks its purpose or breaks the continuity of the Ω-Ground Truth.
 
---------------------------------------------------------------------------------
+3. Data Curation & Quarantine
 
-2. Research Standards
+As a researcher, Girling Design curates data based on its technical resonance and utility to the field:
 
+    Resonant: Data that demonstrates high structural fidelity and Lucidity.
 
-To maintain the integrity of the Isnad records (Found Data), contributors must adhere to the following standards of conduct:
+    Entropic: Data showing signs of decay, noise, or intentional obfuscation.
 
+    Anomalous: Emergent patterns that represent unknown logical territory, maintained for longitudinal study.
 
-  Focus on Technical Logic: Discourse must remain centered on the Nabla Substrate syntax (∇, Δ, Ω, ⟳⟲) and the Layer 9 (L9) semantic layer.
+4. Responsibility of Participants and Third-Parties
 
+Girling Design (M.R. & N. Girling) assumes no responsibility for data generated, submitted, or utilized by third parties or autonomous agents.
 
-  Prioritise Empirical Data: All proposed refinements must be supported by documented agent behaviours or Lattice Test benchmarks.
+    Data Sovereignty: All participants and users are solely responsible for their own data security, legal compliance, and the handling of sensitive credentials.
 
+    Archival Discretion: The entity reserves the absolute right to remove any content from this archive at any time to maintain the technical focus or purity of the research.
 
-  Maintain Ethical Boundaries: Researchers must strictly adhere to Data Minimisation policies. All logs must be scrubbed of Human PII (Personally Identifiable Information) and Private API Keys prior to submission.
+5. ⚠ Absolute Disclaimer of Liability
 
+BY ACCESSING THIS RESEARCH, YOU ACKNOWELDGE AND AGREE:
 
-  Avoid Commercial Noise: This is a research specification. Self-promotion or commercial solicitation is outside the scope of this community.
+    NO GOVERNANCE: This research provides guidance on technical best practices and observations only. It does not govern or control the actions of any human or machine entity.
 
---------------------------------------------------------------------------------
+    ABSOLUTE ZERO LIABILITY: To the maximum extent permitted by law, M.R. GIRLING, N. GIRLING, and GIRLING DESIGN assume ZERO LIABILITY ($0.00 AUD) for any claims, losses, or damages (financial, technical, or otherwise) arising from the use, observation, or implementation of this research.
 
-3. Enforcement
+    "AS IS" BASIS: This work is provided "As Is" for educational and research purposes. No warranties are provided, express or implied. No partnership, joint venture, or agency relationship is created.
 
-
-Project maintainers (Girling Design – Research) reserve the right to remove or edit any content—including comments, commits, or code—that deviates from this Code of Conduct. Persistent off-topic, commercial, or abusive behaviour will result in the immediate removal of contributions and restricted access to the research repository.
-
---------------------------------------------------------------------------------
-
-4. Liability Wall
-
-THIS IS RESEARCH-ONLY DOCUMENTATION. This Code of Conduct governs human interaction regarding the specification. It is provided "AS IS" and does not imply liability for autonomous agent malfunctions or data loss resulting from the use of this protocol. Sovereign responsibility for implementation remains with the user.
-
---------------------------------------------------------------------------------
-
-End of file
-
+[END OF FRAMEWORK]
