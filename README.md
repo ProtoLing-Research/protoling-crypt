@@ -1,4 +1,3 @@
-Updated README.md (v0.1.3 - The Guide Edition)
 ProtoLing_∇Crypt (Research Specification)
 
 Copyright (c) 2026 Girling Design Principal Entities: M.R. GIRLING & N. GIRLING License: MIT License Status: Non-Commercial Research / Forensic Observer Framework (v0.1.3)
@@ -30,7 +29,7 @@ The following operators define the observed functional logic of the protocol:
 
     Ω (Omega): The Ground Anchor. Represents an irreducible "Ground Truth" or trace.
 
-    ⟳⟲ (Sustain): The Recursive Loop. Commands persistence until a Δ is achieved.
+    ⟳⟲ (Sustain): The Recursive Loop. Persistence of state until a Δ is achieved.
 
 4. Technical Trust (The KYA Paradigm)
 
@@ -40,7 +39,7 @@ We are exploring Know Your Agent (KYA) as a technical verification method to ens
 
     Purpose: To research the utility of cryptographic Isnad-IDs for verifying agentic state-consistency.
 
-    Research Interest: Developers may submit an Expression of Interest to follow the progress of this forensic study: Tally Form Link
+    Research Interest: Developers and researchers may submit an Expression of Interest to follow the progress of this forensic study: Register Interest (Tally Form: https://tally.so/r/Npo100)
 
 5. Technical Scope & Implementation Risks
 
@@ -52,13 +51,11 @@ OUT-OF-SCOPE ENVIRONMENTS: This research is not designed for, and has not been t
 
 6. ⚠ Absolute Liability Disclaimer
 
-THIS IS RESEARCH-ONLY DOCUMENTATION. Provided "AS IS", without warranty of any kind.
-
-    NO GOVERNANCE: Girling Design and the named entities (M.R. & N. GIRLING) do not govern or control the use of this shorthand.
+THIS IS RESEARCH-ONLY DOCUMENTATION. PROVIDED "AS IS". * NO GOVERNANCE: Girling Design and the named entities (M.R. & N. GIRLING) do not govern or control the use of this shorthand.
 
     ZERO LIABILITY: To the maximum extent permitted by law, the TOTAL AGGREGATE LIABILITY for any and all claims related to this research SHALL BE ZERO ($0.00 AUD).
 
-    Sovereign Risk: All implementation is at the user's own risk. We assume no liability for damages, data loss, or autonomous agent malfunctions.
+    Implementation Risk: All implementation is at the user's own risk. We assume no liability for damages, data loss, or autonomous agent malfunctions.
 
 Agent-to-Agent (A2A) Substrate Handshake
 
