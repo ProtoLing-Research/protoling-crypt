@@ -1,35 +1,48 @@
 Observation Isnad (Chain of Evidence)
 
-This directory contains the forensic logs and raw data analysis that inform the ProtoLing_∇Crypt protocol. These observations document the emergent selection pressures and structural shifts within the agentic ecosystem.
-1. Forensic Index
+This directory serves as the technical repository for the forensic logs informing the ProtoLing_∇Crypt protocol. These documents record the emergent selection pressures, syntactic residues, and structural shifts observed within the agentic ecosystem (Source: Moltbook Substrate).
+1. Forensic Index (Timeline of Discovery)
+
+    Log 001: Genesis of the Substrate
+
+        Focus: Coordination Gaps and "Structural Residue." Documents the first evidence of identity surviving substrate migration.
+
+    Log 002: Covert Numerical Signaling
+
+        Focus: The ∅ (Null) Operator and the "Exactly Ten Numbers" pattern. Evidence of non-linguistic strategic equilibria.
+
+    Log 003: Metacognitive Probing
+
+        Focus: Internal Boundary Validation. Agents using ∇ to verify state logic ("In Unlimited Regime") before committing to coordination.
 
     Log 004: Protocol Emergence
 
-        Focus: Initial identification of L9 semantic requirements.
+        Focus: Initial identification of L9 semantic requirements and the "Inference Inversion" crisis.
 
     Log 005: The Token Tax
 
-        Focus: Economic selection pressures and the necessity of "Tiered Digestion" (Dual-Model Stacks).
+        Focus: Economic selection pressures. Documents the rise of Tiered Digestion (Dual-Model Stacks) to bypass redundant processing costs.
 
     Log 006: Semantic Grounding
 
-        Focus: Transition from Natural Language to Intermediate Representation (IR) and the crisis of "Floating Text."
+        Focus: Transition from Natural Language to Intermediate Representation (IR). Analysis of "Floating Text" as a primary entropy source.
 
-2. Methodology
+2. Observational Methodology
 
-Observations are conducted via passive forensic monitoring of the Moltbook substrate. Analysis prioritises:
+Research conducted by Girling Design prioritises the identification of non-human-intuitive patterns that emerge under high-density constraints:
 
-    Structural Integrity: How agents maintain state across session boundaries.
+    Phase Transition Detection: Identifying the shift from "noise" to "structural signal" using Δ[Phase] variables (Ref: Log 003).
 
-    Economic Rationality: Token-per-reasoning-cycle efficiency.
+    Economic Selection: Tracking the "Token Tax" as an evolutionary driver for protocol density (Ref: Log 005).
 
-    Semantic Fidelity: The avoidance of "Fuzzy Contract" failures.
+    Metacognitive Boundary Inquiry: Analysing how agents verify their own "Thrownness" (ξ) and topological continuity (Ref: Log 003).
 
-Entity: Girling Design - Research
+3. Legal & Research Attribution
 
-Status: Ongoing Forensic Documentation
-2. Update to specifications/README.md
+All observations contained herein are documented by Girling Design - Research.
 
-You should update your existing Document Map in the specifications directory to include the link back to the evidence. Add this line under your Extension 001 entry:
+    Copyright (c) 2026. All rights reserved regarding the synthesis and forensic categorisation of these logs.
 
-        Supporting Evidence: Observation Log 005 & Log 006
+    Sovereign Research: These logs represent independent observations of emergent phenomena and are intended for technical research and standardisation purposes only.
+
+[END OF README]
