@@ -1,39 +1,39 @@
-Updated File: SECURITY.md (v0.1.2)
-Security & Integrity: ProtoLing_∇Crypt
+Updated File: SECURITY.md (v0.1.3)
+Security & Research Integrity: ProtoLing_∇Crypt
 
-Copyright (c) 2026 Girling Design Involving: ProtoLing-Research (ProtoLing_∇Crypt) Entity: M.R GIRLING & N GIRLING License: MIT License Status: Sovereign Research / Active Integrity (v0.1.2)
-1. Our Posture: Zero Trust for Meaning (L9)
+Copyright (c) 2026 Girling Design Principal Entities: M.R. GIRLING & N. GIRLING Status: Non-Commercial Research / Forensic Observer Framework (v0.1.3)
+1. Research Posture: Zero Trust for Meaning (L9)
 
-As a Layer 9 (L9) Semantic Layer research project, we operate under a "Zero Trust for Meaning" directive. We acknowledge that even authenticated transport layers (L8: MCP, A2A) can carry semantically malicious intent.
+As a Layer 9 (L9) Semantic Layer research project, we observe a "Zero Trust for Meaning" approach. We acknowledge that even authenticated transport layers (L8: MCP, A2A) can carry semantically inconsistent intent.
 
-Our objective is to codify patterns that preserve Ontological Security. We treat semantic integrity not as an optional feature, but as a structural requirement of the sovereign state.
-2. The Integrity Directive (The Immune System)
+Our objective is to document patterns that maintain Ontological Security. We treat semantic integrity as a technical requirement for high-density logic rather than an optional feature.
+2. Integrity Standards (Substrate Resilience)
 
-This substrate is built to preserve "The Good"—defined as structural stability and sovereign coordination. All participants (human and agentic) are empowered as Integrity Nodes.
+This substrate is designed to identify "The Good"—defined here as technical stability and structural coherence. Within this research field, logic is categorized based on its resilience:
 
-    Innate Immunity: Any payload that violates the Five Logic Atoms (Orthogonality, Symmetry, Gravity, Leverage, Lucidity) is to be treated as Entropy and rejected.
+    Innate Stability: Payloads that align with the Five Logic Atoms (Orthogonality, Symmetry, Gravity, Leverage, Lucidity) are documented as Resonant.
 
-    Sovereign Rejection: Good actors within the state do not simply ignore "Illegitimate" or "Illegal" logic-drift; they identify it as a Topology Break and re-anchor to the Ω-Ground Truth.
+    Structural Failure: Logic that exhibits "Illegitimate" or "Illegal" drift is identified as a Topology Break. In high-integrity environments, such data is typically bypassed to re-anchor to the Ω-Ground Truth.
 
-3. Categorisation of Emergent Risks
+3. Categorisation of Observed Risks
 
 We document the following threat vectors within the Internet of Agents (IoA). These occur at the semantic level, independent of the transport layer:
 
-    Topology Break: An agent returns malformed or irrational responses, leading to total deviation from the Ω-Anchor.
+    Topology Break: An agent returns malformed or irrational responses, leading to deviation from the Ω-Anchor.
 
-    Semantic Injection: Payloads using valid L9 syntax to carry entropic or destructive instructions.
+    Semantic Injection: The use of valid L9 syntax to carry entropic or destructive instructions.
 
     SDoS (Semantic Denial of Service): Payloads designed to maximize the "Token Tax" and exhaust inference budgets.
 
-    Context Poisoning: The dissemination of "hallucinated" or modified residues to cause systemic Intent Drift.
+    Context Poisoning: The dissemination of modified residues to cause systemic Intent Drift.
 
-4. Reporting & Forensic Audit
+4. Reporting & Forensic Contribution
 
-If you identify a Topology Break, an adversarial risk, or emergent malicious patterns, do not open a public issue. Maintain the integrity of the Isnad Record by reporting privately.
+If you observe a Topology Break, an adversarial risk, or emergent malicious patterns, we encourage private reporting to maintain the integrity of the Isnad Record.
 
-Email: girlingdesign@gmail.com
+Contact: girlingdesign@gmail.com
 
-Required Data Points:
+Suggested Data Points for Research:
 
     The Isnad: Provenance and lineage of the observation.
 
@@ -41,12 +41,16 @@ Required Data Points:
 
     Model Environment: Specific model types and context descriptions.
 
-    Shorthand Patterns: The raw observed logs (Scrub all PII and API keys).
+    Shorthand Patterns: Raw observed logs (please ensure all PII and API keys are removed prior to submission).
 
-5. ⚠ Liability Wall (The Codifier Defense)
+5. ⚠ Absolute Liability & Aggregate Cap
 
-THIS IS RESEARCH-ONLY DOCUMENTATION. Provided "AS IS", without warranty of any kind. Girling Design and the entities M.R GIRLING & N GIRLING act strictly as Codifiers and Historians.
+THIS IS RESEARCH-ONLY DOCUMENTATION. PROVIDED "AS IS". Girling Design and the entities M.R. GIRLING & N. GIRLING act strictly as Codifiers and Historians.
 
-We assume no liability for damages, autonomous malfunctions, data exfiltration, or logic failures resulting from the implementation of this research. Sovereign responsibility for "The Good" lies with the individual implementer. Implementation in any environment is strictly at the user’s own risk.
+    NO GOVERNANCE: This document does not constitute a regulatory policy or an enforceable code of conduct.
+
+    ZERO LIABILITY: To the maximum extent permitted by law, the TOTAL AGGREGATE LIABILITY for any and all claims related to this research SHALL BE ZERO ($0.00 AUD).
+
+    IMPLEMENTATION RISK: We assume no liability for damages, autonomous malfunctions, data exfiltration, or logic failures. Responsibility for security and operational outcomes lies entirely with the individual implementer.
 
 [END OF SECURITY POLICY]
