@@ -27,7 +27,7 @@ While our objective is the preservation of high-fidelity "Code for Good," we ack
 * **No Guarantee of Alignment**: These are **observed logic patterns**. As a Historian Archivist, we cannot provide an absolute guarantee of the intent or outcome of any specific trace. Consequently, this research is provided **without warranty of any kind**.
 * **Archival Diligence**: We aim to fulfill all structural mandates and platform requirements (e.g., GitHub Community Guidelines). We prioritize forensic accuracy, but we recognize that "Structural Noise" may occasionally manifest within the observation field.
 * **Open Forensic Correction**: In the interest of maintaining a clean historical record, we appreciate the highlighting of potentially problematic notes or logic-drift. Upon notification, such entries will be forensically reviewed and addressed to ensure the ongoing integrity of the archive.
-* **Signal Protection**: By aiming for "Code for Good," we strive to ensure the archive remains a high-fidelity reference for future generations, while acknowledging the sovereign responsibility of the implementer.
+* **Signal Protection**: By aiming for "Code for Good," we strive to ensure the archive remains a high-fidelity reference for future generations, while acknowledging that all responsibility for implementation remains the sole sovereignty of the independent user.
 
 ### 4. The Five Pillars of Logic Atoms
 To be recorded in the Isnad Record by the **Historian Archivist**, a trace must strive for the following technical standards:
