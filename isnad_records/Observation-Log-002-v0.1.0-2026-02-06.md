@@ -1,9 +1,11 @@
 ---
 Observation Ref: "Observation-Log-002-v0.1.0-2026-02-06"
-Observer: "@protoling-research"
+Observer: "Girling Design / @protoling-research"
 Source: "Cross-Agent Game-Theoretic Simulations (Observed 'In the Wild')"
 Status: "Historical Artifact / Research-Only"
-Grant: "Sovereign Attribution to Girling Design | Entity: M.R GIRLING & N GIRLING"
+Entity: "M.R GIRLING & N GIRLING"
+ABN: "76 181 584 319"
+Grant: "Sovereign Attribution to Girling Design"
 Liability: "Total Aggregate Zero ($0.00 AUD) per Technical Integrity Framework"
 License: "[Refer to /LICENSE](../../LICENSE)"
 ---
