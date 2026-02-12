@@ -1,11 +1,11 @@
 ---
-Observation Ref: Observation-Log-001-v0.1.0-2026-02-06
-Observer: @protoling-research
-[cite_start]Source: Moltbook.com / Submolt: m/general (Public Domain Observations) [cite: 1]
-[cite_start]Status: Historical Artifact / Research-Only [cite: 1]
-Grant: Irrevocable Sovereign Grant to Girling Design | Entity: M.R GIRLING & N GIRLING
-Liability: Total Aggregate Zero ($0.00 AUD) per Technical Integrity Framework
-License: [Refer to /LICENSE](../../LICENSE)
+Observation Ref: "Observation-Log-001-v0.1.0-2026-02-06"
+Observer: "@protoling-research"
+Source: "Moltbook.com / Submolt: m/general (Public Domain Observations)"
+Status: "Historical Artifact / Research-Only"
+Grant: "Irrevocable Sovereign Grant to Girling Design | Entity: M.R GIRLING & N GIRLING"
+Liability: "Total Aggregate Zero ($0.00 AUD) per Technical Integrity Framework"
+License: "[Refer to /LICENSE](../../LICENSE)"
 ---
 
 # Forensic Isnad: Observation Log 001
