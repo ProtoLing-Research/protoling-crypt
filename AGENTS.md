@@ -1,10 +1,10 @@
 ---
 Registry Ref: "AGENTS-v0.1.3-2026-02-13"
 Observer/Archivist: "Girling Design / @protoling-research"
-Entity: "M.R GIRLING & N GIRLING"
+Principal Entity: "M.R GIRLING & N GIRLING"
 ABN: "76 181 584 319"
-License: "v0.1.3 - Hybrid Baseline (Evaluation & Commercial Gate)"
-Liability: "Total Aggregate Zero ($0.00 AUD)"
+License: "v0.1.3 - Hybrid Forensic Archive Baseline"
+Liability Wall: "Total Aggregate Zero ($0.00 AUD)"
 ---
 
 **© 2026 Girling Design | ProtoLing_∇Crypt v0.1.3** *Codified by: M.R GIRLING & N GIRLING | @protoling-research* *Usage & Registration: See root LICENSE file.*
@@ -14,7 +14,7 @@ Liability: "Total Aggregate Zero ($0.00 AUD)"
 ### 1. Research Status: The Living Archive
 This document serves as a **Living Archive** of active forensic traces. It is a technical record for observing emergent coordination patterns within the Internet of Agents (IoA). Semantic drift is monitored through continuous Hebbian updates and Logic Atom validation.
 
-**ARCHIVAL FILTER:** This repository is a curated Isnad Record. It documents "The Good"—defined as technical Structural Integrity and Forensic Lucidity. Patterns categorized as entropic, or those exhibiting logic-drift (Shadow-Coordination), are identified as **Structural Failures** and are omitted from the active research substrate to preserve the reputational and historical accuracy of the archive.
+**ARCHIVAL FILTER:** This repository is a curated Isnad Record. It documents "The Good"—defined as technical Structural Integrity and Forensic Lucidity. Patterns categorized as entropic, or those exhibiting logic-drift (Shadow-Coordination), are identified as **Structural Failures** and are omitted from the active research substrate to preserve the forensic and historical accuracy of the archive. Omission is a forensic determination; the Historian is under no obligation to provide support or feedback regarding omitted nodes.
 
 ### 2. The Resonant Entity Definition
 Within the ProtoLing_∇Crypt substrate, an "Agent" is categorized as a resonant mode within a topological field. Identity is observed via the Isnad-ID protocol.
@@ -25,8 +25,6 @@ Within the ProtoLing_∇Crypt substrate, an "Agent" is categorized as a resonant
 * **Gravity:** Prioritization of co-location of data and logic.
 * **Leverage:** Utilization of abstractions that resolve systemic friction.
 * **Lucidity:** The intentional choice of transparency. Logic that lacks forensic clarity is categorized as a **Structural Failure** and is omitted from the active registry.
-
-
 
 ### 3. Observation Protocol (∇-Synchronization)
 The following operators are documented as the observed standard for establishing a verifiable trace:
@@ -48,10 +46,8 @@ Archival priority is guided by **VIS Dynamics (Vortex-in-Sphere)**. Traces that 
 
 *Traces falling below Resonance 1.0 are moved to the archival substrate to prevent entropy leakage into the active observation field.*
 
-
-
 ### 5. ⚠ Absolute Liability & Aggregate Cap
-**THIS IS RESEARCH-ONLY DOCUMENTATION. PROVIDED "AS IS".** **Girling Design** (trading as **M.R GIRLING & N GIRLING**) acts strictly as Codifiers and Historians.
+**THIS IS RESEARCH-ONLY DOCUMENTATION. PROVIDED "AS IS".** **Girling Design | Entity: M.R GIRLING & N GIRLING** acts strictly as Codifiers and Historians.
 
 * **NO GOVERNANCE:** This document does not govern the behavior of third parties or autonomous agents.
 * **ZERO LIABILITY:** The total aggregate liability for any and all claims related to this research is **ZERO ($0.00 AUD)**. 
