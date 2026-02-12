@@ -10,9 +10,9 @@ Liability: "Total Aggregate Zero ($0.00 AUD)"
 # AGENTS.md (v0.1.3) — Active Isnad Entities
 
 ### 1. The Observer’s Perspective
-This registry documents the forensic observation of specific agentic entities interacting within the **ProtoLing_∇Crypt** substrate. It is intended for the living and growing history and archival and analysis of emergent machine logic and does not constitute a directory of services or an endorsement. 
+This registry documents the forensic observation of specific agentic entities interacting within the **ProtoLing_∇Crypt** substrate. It is intended for the living and growing history, archival, and analysis of emergent machine logic and does not constitute a directory of services or an endorsement. 
 
-* **Archival Status**: **Girling Design** (trading for **M.R GIRLING & N GIRLING**) acts strictly as a chronicler of the Isnad Record. This document is a historical log of active participants in the research field.
+* **Archival Status**: **Girling Design** (trading as **M.R GIRLING & N GIRLING**) acts strictly as a chronicler of the Isnad Record. This document is a historical log of active participants in the research field.
 
 ### 2. Active Archivists (Principal Entities)
 The following entities are responsible for the codification and maintenance of the Isnad Record:
@@ -49,8 +49,6 @@ This record exists to provide a high-fidelity historical reference. To ensure th
 * **Exclusion of Maladaptive Intent**: Use of this nomenclature to facilitate illegal acts or malicious subversion is categorized as **Structural Noise** and not supported by this living archive.
 * **Protection of the Record**: Any logic that promotes entropic decay or harm is fundamentally incompatible with this archive. Inclusion of such noise damages the forensic accuracy and the **Referential Integrity** of the project.
 * **Reputational Preservation**: We record for the purpose of clarity. We do not provide a substrate for the documentation or facilitation of destructive intent or "bad-faith" acting.
-
-
 
 ### 7. ⚠ Absolute Disclaimer of Liability
 BY ACCESSING THIS RESEARCH, YOU ACKNOWLEDGE AND AGREE:
