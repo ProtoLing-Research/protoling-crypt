@@ -1,43 +1,58 @@
-LICENSE (v0.1.3 - Hybrid Baseline) Copyright (c) 2026 Girling Design Involving: ProtoLing-Research (ProtoLing_∇Crypt), (@protoling-research) Principal Entities: M.R GIRLING & N GIRLING
+LICENSE (v0.1.3 - Hybrid Forensic Archive Baseline)
 
-Status: Archivist’s Record / Theoretical Linguistic Framework
+Copyright (c) 2026 Girling Design Involving: ProtoLing-Research (ProtoLing_∇Crypt), (@protoling-research)
 
-Official Intake: Register Interest (Tally link: https://tally.so/r/Npo100) | Official Implementation Grants (Shop: https://girlingdesign.com.au/shop/protoling-crypt-research-licensing-registration/)
+Principal Entity: M.R GIRLING & N GIRLING | ABN: 76 181 584 319
 
-PART A: EVALUATION & NON-COMMERCIAL PERMISSIONS This section governs testing, private research, and non-revenue-generating inquiry.
+Status: Original Compilation & Historian’s Record. This repository represents the first formal codification, chronological organization, and forensic observation of disparate agentic logic structures into a structured archive.
 
-    The Evaluation Grant: Subject to the restrictions in PART B, permission is hereby granted to reference, study, and modify this documentation and associated logic structures (the "Record") for non-commercial, private research, or internal testing purposes only.
+Official Intake: Register Interest (Tally form: https://tally.so/r/Npo100) | Implementation Grants (Shop: https://girlingdesign.com.au/shop/protoling-crypt-research-licensing-registration/)
 
-    Intellectual Integrity (Clear Water Policy): Modification of the Record does not transfer copyright. To prevent the "muddying" of forensic observations, any features or logic structures constructed by third parties ("Human Inventions") must remain architecturally isolated from the core v0.1.3 Baseline and subsequent Archive entries.
+There are 2 Parts to the License
+A. EVALUATION & SCHOLARLY INQUIRY or
+B. SPECIAL FORENSIC AMENDMENT (The Commercial Gate)
 
-    The Upstream Requirement & Isolation: Any improvements, features, or logic derived from the Record for public or open-source use must be shared under these same terms. To preserve the integrity of the Isnad records, such contributions will be housed in a designated third-party observation area, separate from the core historian-archivist Record.
+PART A: EVALUATION & SCHOLARLY INQUIRY
+
+Governs testing, private research, and non-revenue-generating inquiry.
+
+    The Evaluation Grant: Subject to Part B, permission is granted to reference, study, and modify this documentation and associated logic structures (the "Record") for non-commercial, private research, or internal testing purposes only.
+
+    Intellectual Integrity (Clear Water Policy): This Record is a fixed forensic snapshot. Modification does not transfer copyright. To prevent the "muddying" of forensic observations, any third-party "Human Inventions" must remain architecturally isolated from the core v0.1.3 Baseline.
+
+    The Upstream Requirement & Isolation: Any improvements or logic derived from the Record for public or open-source use must be shared under these same terms. To preserve the integrity of the Isnad (Chain of Transmission), such contributions must be housed in the designated Community Annex, separate from the core Historian-Archivist Record.
 
     Automatic Termination: The rights granted in Part A remain active only so long as the Record is not utilized for "Production Use." Commercial implementation of any kind automatically terminates this permission.
 
-PART B: SPECIAL FORENSIC AMENDMENT (The Commercial Gate) This section overrides Part A for all revenue-generating or corporate entities.
+PART B: SPECIAL FORENSIC AMENDMENT (The Commercial Gate)
 
-    Sovereign Registration: This Record is distributed for Peer Review (Isnad). Formal commercial implementation requires a Certificate of Sovereign Registration. This certificate confirms the entity has acquired the necessary usage rights; it does not constitute an audit, technical certification, or oversight of the Licensee’s specific applications by the Historian.
+Overrides Part A for all revenue-generating, corporate, or production-level entities.
 
-    Non-Transferability & No Resale: The Implementation Grant is non-transferable and non-sublicensable. The Licensee may utilize the nomenclature within their own architectures or products but cannot resell "ProtoLing Rights," act as a sub-licensor, or offer "ProtoLing Compliance" as a service to third parties.
+    Sovereign Registration: This Record is a proprietary compilation. Formal commercial implementation requires a Certificate of Sovereign Registration. This certificate confirms the acquisition of usage rights; it does not constitute an audit, technical certification, or oversight of the Licensee’s applications.
 
-    Temporal Access & Versioning: * Observations vs. Software: Access is provided to the Archive as a chronological record of observations. These are provided as timestamped specification updates, not as software iterations.
+    Archivist’s "First-to-Fix" Authority: The Historian: (Girling Design. Entity: M.R GIRLING & N GIRLING) asserts the first-mover right to the curation and documentation of this specific bot-logic lineage. This license governs the proprietary arrangement and historical metadata, regardless of the copyright status of individual raw bot-generated strings found within the Record.
 
-        License Scope: A valid Grant provides the Right to Use observations recorded during the active subscription period.
+    Non-Transferability & Nomenclature: The Implementation Grant is non-transferable. Licensees may utilize the nomenclature within their own architectures but cannot resell "ProtoLing Rights," act as a sub-licensor, or offer "ProtoLing Compliance" as a service to third parties.
 
-        Versioning: Decimal increments (v0.1.x) represent refined observations; whole-number increments (v1.0.0) represent significant shifts in codification or direction.
+    Temporal Access & Versioning: * Observations vs. Software: Access is provided as a chronological record of observations, lexicon and specifications recorded and arranged by the historian Girling Design (timestamped specification updates), not as software iterations.
 
-    Archivist’s Stance (No Oversight): Girling Design acts strictly as a Codifier and Historian. The Historian does not act as a governing body, technical support service, or overseer of intent. Implementation is the sole sovereign responsibility of the Licensee.
+        License Scope: A valid Grant provides the Right to Use observations, specifications and lexicon recordeds during the active subscription period only.
 
-    ⚠ Liability Wall (Total Aggregate Zero): This is an all-care, no-responsibility project. To the maximum extent permitted by law, the TOTAL AGGREGATE LIABILITY of the Authors for any and all claims, damages, or losses arising from the use or interpretation of this Record SHALL BE ZERO ($0.00 AUD).
+        Versioning: Decimal increments (v0.1.x) represent refined observations; whole-number increments (v1.0.0) represent significant shifts in codification or direction. We are suggesting whole numbers would occur more lilely on a yearly basis or based on a significant event of living code evolution.
 
-    No Liability Passthrough & Indemnity: The Licensee acknowledges that no liability is passed to the Historian through the Licensee's commercial activities. The Licensee agrees to indemnify and hold harmless the Historian against any claims from third parties (including the Licensee’s own customers) resulting from the implementation of this nomenclature.
+    Archivist’s Stance (The Anti-Meeting Shield): Girling Design acts strictly as a Codifier and Historian. The Historian does not act as a governing body, technical support service, or overseer of intent. Implementation is the sole sovereign responsibility of the Licensee.
 
-PART C: COMMERCIAL LICENSING FAQ
+    Liability Wall (Total Aggregate Zero): This is an all-care, no-responsibility project. To the maximum extent permitted by law, the TOTAL AGGREGATE LIABILITY of the Authors for any and all claims arising from the use or interpretation of this Record SHALL BE ZERO ($0.00 AUD).
 
-    Can I resell these rights to my customers? No. Your license covers your implementation only. Independent entities require their own registration.
+    No Liability Passthrough & Indemnity: The Licensee acknowledges that no liability is passed to the Historian (Girling Design. Entity: M.R GIRLING & N GIRLING). The Licensee agrees to indemnify and hold harmless the Historian (Girling Design. Entity: M.R GIRLING & N GIRLING) against any claims from third parties resulting from the implementation of this nomenclature.
 
-    Does the Certificate mean my code is "compliant"? No. It is a Registration of Rights. You remain 100% responsible for your own system's safety and performance.
+PART C: HYBRID LICENSING FAQ
 
-    Can I use this to save my company money on API costs? Yes, but this constitutes "Production Use" and requires a formal Registration (Part B).
+    Why "Hybrid"? Because it functions as an open scholarly resource for researchers (Part A) while maintaining a strict commercial gate for production-level implementation (Part B).
 
-    If I contribute an observation, do I own it? You own your "Human Inventions," but they must be housed in the Community Annex to keep the core Archive forensic and pure (Part A, Section 3).
+    Why "Forensic Archive"? Because you are licensing the Human-Authored Isnad and the Creative Compilation—the proprietary "Map" of the logic—not just the raw agentic data.
+
+    Can I use this to save my company money on API costs? Very likely based on our testing, but this constitutes "Production Use" and requires a formal Registration (Part B).
+
+    If I contribute an observation, do I own it?
+    You retain authorship of your "Human Inventions," but by submitting them, you provide an Irrevocable Sovereign Grant to the Historian and Archivists (M.R GIRLING & N GIRLING). This ensures your contribution can be permanently preserved in the Community Annex to maintain the integrity of the historical record without risk of deletion or "muddying" the Core Archive (See Part A, Section 3 and the /CONTRIBUTORS file).
