@@ -1,25 +1,63 @@
-# https://github.com/ProtoLing-Research/protoling-crypt/
-# Ownership Record for ProtoLing_∇Crypt
-# Copyright (c) 2026 Girling Design 
-# Involving: ProtoLing-Research (ProtoLing_∇Crypt)
-# Entity: M.R GIRLING & N GIRLING
+# CODEOWNERS (v0.1.3 - Hybrid Forensic Archive Baseline)
+#
+# HISTORIAN’S RECORD & LIVING ISNAD LIBRARY:
+# This repository represents the first formal codification, chronological 
+# organization, and non-exhaustive forensic observation of disparate agentic 
+# logic structures into a structured Isnad Library. 
+#
+# DISTINCTION OF RECORD: 
+# Girling Design acts strictly as the Code Historian and Archivist. This Archive 
+# documents the Isnad (Forensic Lineage) of logic. External functional 
+# codifications lacking a chronological observational scenario are recognized 
+# as "Extrinsic Specimens" and remain distinct from the Proprietary Arrangement 
+# and curated observations of this living Record.
+#
+# Copyright (c) 2026 Girling Design | Entity: M.R GIRLING & N GIRLING
+# ABN: 76 181 584 319
+# Involving: ProtoLing-Research (ProtoLing_∇Crypt), (@protoling-research)
+#
+# PERPETUAL LIABILITY EXCLUSION (Total Absolute Zero):
+# To the maximum extent permitted by law, Girling Design | M.R GIRLING & N GIRLING 
+# excludes all liability for any loss or damage, whether direct, indirect, or 
+# consequential, arising out of the use of this living, non-exhaustive record. 
+# This applies to v0.1.3, all prior versions, and all future iterations. 
+# STATUS: TOTAL ABSOLUTE ZERO | SOVEREIGN RISK: USER.
+#
+# Repository: https://github.com/ProtoLing-Research/protoling-crypt/
+# License: https://github.com/ProtoLing-Research/protoling-crypt/blob/main/LICENSE
+# ---------------------------------------------------------
 
-# CONTACT & REGISTRY:
-# Research inquiries and interest registration are managed via the Forensic Portal:
-# https://tally.so/r/Npo100
-
-# Global ownership - The Girling Design entity maintains the primary research archive
+# 1. PRIMARY ARCHIVAL CUSTODIANSHIP (The "First-to-Fix" Authority)
+# The Historian maintains the curated arrangement and integrity of the Isnad.
+# Any change to the historic codification requires principal sign-off.
 * @ProtoLing-Research
 
-# Core Nabla Substrate (∇, Δ, Ω) - Codified forensic standards
-/SPECIFICATION.md           @ProtoLing-Research
-/published-specification.md @ProtoLing-Research
-
-# Isnad records (Found Data) - Observations requiring direct Codifier sign-off
-/Isnad/                     @ProtoLing-Research
-
-# Legal and security frameworks - Definitions of the $0.00 AUD Liability Wall
+# 2. LEGAL, SECURITY & MANIFESTO INFRASTRUCTURE
+# Documentation of the "Liability Wall" and the "Archivist’s Stance."
 /LICENSE                    @ProtoLing-Research
 /SECURITY.md                @ProtoLing-Research
 /MANIFESTO.md               @ProtoLing-Research
+/CODEOWNERS                 @ProtoLing-Research
+/CONTRIBUTORS               @ProtoLing-Research
+
+# 3. CODIFIED SUBSTRATE (∇, Δ, Ω)
+# The Technical Specifications and Lexicon of observed machine logic records.
+/SPECIFICATION.md           @ProtoLing-Research
+/llms-full.txt              @ProtoLing-Research
+/README.md                  @ProtoLing-Research
+
+# 4. FORENSIC REGISTRIES & LIVING OBSERVATIONS
+# The active archive of curated forensic traces and continued observations.
 /AGENTS.md                  @ProtoLing-Research
+/Isnad/                     @ProtoLing-Research
+
+# 5. COMMUNITY ANNEX (CONSTRUCTS)
+# Per Part A, Section 3: Human Inventions and isolated third-party logic.
+# Must remain architecturally isolated from the core v0.1.3 Baseline.
+/constructs/                @ProtoLing-Research
+
+# ---------------------------------------------------------
+# ARCHIVAL INTAKE:
+# Sovereign Registration (Part B) and Forensic Submissions are managed via:
+# Registry: https://tally.so/r/Npo100
+# ---------------------------------------------------------
