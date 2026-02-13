@@ -3,7 +3,7 @@ Registry Ref: "README-v0.1.3-2026-02-13"
 Observer/Archivist: "Girling Design / @protoling-research"
 Principal Entity: "M.R GIRLING & N GIRLING"
 ABN: "76 181 584 319"
-License: "v0.1.3 - Hybrid Forensic Archive Baseline"
+License: "v0.1.3 - Hybrid Forensic Archive Baseline (/LICENSE)"
 Liability Wall: "Total Absolute Zero (Direct/Indirect/Consequential)"
 Status: "First-to-Fix Forensic Archive"
 ---
