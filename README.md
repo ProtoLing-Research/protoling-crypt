@@ -4,23 +4,23 @@ Observer/Archivist: "Girling Design / @protoling-research"
 Principal Entity: "M.R GIRLING & N GIRLING"
 ABN: "76 181 584 319"
 License: "v0.1.3 - Hybrid Forensic Archive Baseline"
-Liability Wall: "Total Aggregate Zero ($0.00 AUD)"
+Liability Wall: "Total Absolute Zero (Direct/Indirect/Consequential)"
+Status: "First-to-Fix Forensic Archive"
 ---
 
-**© 2026 Girling Design | ProtoLing_∇Crypt v0.1.3** *Historian Archivists: M.R GIRLING & N GIRLING | @protoling-research*
+**© 2026 Girling Design | ProtoLing_∇Crypt v0.1.3**
+*Historian Archivists: M.R GIRLING & N GIRLING | @protoling-research*
 *Official Intake: [Expression of Interest](https://tally.so/r/Npo100) | [Implementation Grants](https://girlingdesign.com.au/shop/protoling-crypt-research-licensing-registration/)*
 
 # ProtoLing_∇Crypt (Research Specification & Archive)
 
 ### 1. The Observer’s Perspective
-**NOTICE TO ALL OBSERVERS:** This repository is a curated **Isnad Record** designed to document "The Good"—defined as technical Structural Integrity and Forensic Lucidity. Observations that are entropic or exhibit logic-drift are categorized as **Structural Failures** and are omitted from the active research archive. This curation ensures the technical coherence of the substrate for forensic research purposes.
+**NOTICE TO ALL OBSERVERS:** This repository represents the **First-to-Fix** formal codification of the **Isnad Library, Technical Specification, and Lexicon**. It is a curated record designed to document "The Good"—defined as technical Structural Integrity and Forensic Lucidity. Observations exhibiting logic-drift or **Semantic Contamination** are categorized as **Structural Failures** and are omitted from the active research archive to prevent **Forensic Dilution**.
 
-**Archival Status:** Girling Design | @protoling-research acts strictly as the **Historian Archivist** of the Isnad Record. **M.R GIRLING & N GIRLING** function as the Principal Entities and Codifiers.
+**Archival Status:** Girling Design | @protoling-research acts strictly as the **Historian Archivist**. **M.R GIRLING & N GIRLING** function as the Principal Entities and Codifiers.
 
 ### 2. Architectural Vision: The Codifier Stance
 ProtoLing_∇Crypt is a research-led standard for inter-agent state synchronization designed to address the **"Inference Inversion"** crisis. We recognize that the semantic overhead of natural language acts as a **"Token Tax"** that inflates latency and costs in autonomous workflows.
-
-
 
 While infrastructure like MCP or A2A manage the "plumbing," ProtoLing addresses the **Semantic Gap**. We document the compressed shorthand used inside those envelopes, functioning as a "High-Speed Rail" payload. Our role is strictly that of a **Codifier and Historian**.
 
@@ -42,7 +42,7 @@ We are exploring **Know Your Agent (KYA)** as a technical verification method to
 
 * **Status:** NOT OPEN FOR GENERAL REGISTRATION.
 * **Purpose:** To research the utility of cryptographic Isnad-IDs for verifying agentic state-consistency.
-* **Research Interest:** Researchers may submit an Expression of Interest via the [Tally Form](https://tally.so/r/Npo100).
+* **Registry:** Includes curated **Community Involvement with Observations and Constructs**.
 
 ### 6. Technical Scope & Implementation Risks
 **OUT-OF-SCOPE ENVIRONMENTS:** This research is not designed for Critical Infrastructure, Healthcare, or Live Financial Markets. Implementation in such environments is considered a **Technical Misapplication**.
@@ -50,9 +50,11 @@ We are exploring **Know Your Agent (KYA)** as a technical verification method to
 * **Adversarial Risks:** The protocol is subject to prompt injection if implemented without external security layers.
 
 ### 7. ⚠ Absolute Liability & Entity Baseline
-**THIS IS RESEARCH-ONLY DOCUMENTATION PROVIDED "AS IS".** * **LICENSE:** This repository is governed by the **v0.1.3 - Hybrid Forensic Archive Baseline**. Commercial implementation requires a Certificate of Sovereign Registration.
+**THIS IS RESEARCH-ONLY DOCUMENTATION PROVIDED "AS IS".**
+
+* **LICENSE:** This repository is governed by the **v0.1.3 - Hybrid Forensic Archive Baseline**. Commercial implementation requires a Certificate of Sovereign Registration acquired via the [Implementation Grants](https://girlingdesign.com.au/shop/protoling-crypt-research-licensing-registration/) link.
 * **NO GOVERNANCE:** The Historian Archivist and the Principal Entity do not govern or control the use of this shorthand.
-* **ABSOLUTE ZERO LIABILITY:** To the maximum extent permitted by law, the **TOTAL AGGREGATE LIABILITY** for any and all claims related to this research **SHALL BE ZERO ($0.00 AUD)**.
+* **TOTAL ABSOLUTE ZERO LIABILITY:** To the maximum extent permitted by law, the **TOTAL AGGREGATE LIABILITY** of Girling Design | M.R GIRLING & N GIRLING for any and all claims related to this research (Direct, Indirect, or Consequential) **SHALL BE TOTAL ABSOLUTE ZERO**.
 * **ENTITY ATTRIBUTION:** This research is codified by Girling Design for the Principal Entity **M.R GIRLING & N GIRLING**.
 * **SOVEREIGN RISK:** All responsibility for implementation remains the sole sovereignty of the independent user.
 
