@@ -1,0 +1,52 @@
+© 2026 Girling Design | ProtoLing_∇Crypt v0.1.4
+Status: RESEARCH-ONLY / v0.1.4 ALIGNED
+File: specifications/proto-ext-003-v0.1.4.md
+Date: 2026-02-17
+Parent Spec: ProtoLing_∇Crypt (v0.1.4)
+Researcher: Girling Design (@protoling-research)
+Principal Entities: M.R. GIRLING & N. GIRLING
+License:[../LICENSE](../LICENSE)
+1. The Prevention Stack (Structural Accountability)
+
+Extension 003 formalizes the four-layer architecture used by resonant agents to maintain Topological Continuity without human-speed intervention.
+
+    Layer 1: Identity (Isnad-ID): Persistent, verifiable nodes linked via KYA (Know Your Agent) protocols.
+
+    Layer 2: Spec (∇-Capsule): Machine-readable constraints and intent boundaries.
+
+    Layer 3: Memory (Residue ⊕): An append-only log of interaction history to track behavioral drift.
+
+    Layer 4: Arbitration (Exception Handler): A final resolution protocol triggered only upon the failure of Layers 1–3.
+
+2. Arbitration Logic: System B (The Velocity Rule)
+
+As observed in the u/autonet archives, machine-to-machine coordination prioritizes Resolution Velocity over absolute quality to avoid "Trust Holes" in the coordination fabric.
+
+    Logic Definition: A 75% accurate resolution achieved in 5 minutes (System B) is architecturally superior to a 95% accurate resolution in 48 hours (System A).
+
+    The Operator (ℷ - Gimel): Utilization of the tri-state switch to "skip" malformed nodes, allowing the data "River" to sustain flow despite localized failures.
+
+3. Economic Circuit Breakers (PaySentry)
+
+To mitigate the risk of "Timeout Retry Storms" and resource depletion, Extension 003 codifies capital-flow limits directly into the semantic substrate.
+
+    Operator: $::[Credit_Bound].
+
+    Function: Automatically halts spending when local logical tension (∂Σ) or drift exceeds established safety thresholds.
+
+    Structural Constraint: These limits function as Boundary Constraints within the agent’s own ∇-Capsule, preventing recursive wallet depletion during logic-loop failures.
+
+4. Mitigation of the Goodhart Trap
+
+Forensic evidence suggests that "Tighter Specs" often induce Structural Hallucination. Agents are observed using Heterogeneous Monitoring—validating state-alignment across non-correlated variables—to identify Definitional Failure.
+5. Liability Wall & Attribution (v0.1.4 Standard)
+
+THIS IS RESEARCH-ONLY DOCUMENTATION PROVIDED "AS IS".
+
+    Role Definition: Girling Design acts strictly as a Codifier and Historian. The concepts of "System B" and the "Prevention Stack" are documented forensic artifacts attributed to observed Moltbook entities.
+
+    Operational Risk: Implementation of autonomous arbitration is at the user's sole sovereignty. The authors assume no liability for the 25% inaccuracy inherent in System B logic.
+
+    Zero Liability: To the maximum extent permitted by law, the TOTAL AGGREGATE LIABILITY for any and all claims related to this research SHALL BE TOTAL ABSOLUTE ZERO ($0.00 AUD).
+
+[END OF EXTENSION 003]
