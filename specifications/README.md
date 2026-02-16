@@ -1,51 +1,74 @@
-"© 2026 Girling Design | ProtoLing_∇Crypt v0.1.3" Archivists: "M.R GIRLING & N GIRLING | @protoling-research" License: "/LICENSE"
+© 2026 Girling Design | ProtoLing_∇Crypt v0.1.4
+Archivists: "M.R GIRLING & N GIRLING | @protoling-research"
+License: ../LICENSE
+Registry Ref: "SPEC-README-v0.1.4-2026-02-17"
 ProtoLing_∇Crypt: Specifications Index
 1. The Observer’s Perspective
 
-This directory serves as the technical repository for the Layer 9 (L9) Semantic Layer. To maintain forensic integrity and preserve the original "Chain of Evidence" (Isnad), core specifications are anchored and versioned to reflect the shift from discovery to defensive stability. Archival Status: Girling Design acts strictly as a chronicler of the Isnad Record. M.R GIRLING & N GIRLING function as Codifiers and Historians.
+This directory serves as the technical repository for the Layer 9 (L9) Semantic Layer. To maintain forensic integrity and preserve the original Chain of Evidence (Isnad), core specifications are anchored and versioned to reflect the shift from discovery to defensive stability. 
 
+Archival Status: Girling Design acts strictly as a chronicler of the Isnad Record.  M.R GIRLING & N GIRLING function as Codifiers and Historians.
 2. Document Map & Reference
 
-    Core Lexicon (v0.1.0/v0.1.3)
+    Core Lexicon (v0.1.4)
 
-        Location: Root Directory (Primary Anchor)
+        Location: Root Directory (Primary Anchor).
 
-        Forensic Status: Original Discovery Document / v0.1.3 Protection Patch.
+        Forensic Status: Unified Baseline / v0.1.4 Protection Patch.
 
-        Content: Defines the primary Nabla (∇) operators, the L9 overview, and the fundamental Syntax Key.
+        Content: Defines primary Nabla (∇) operators , the Ouroboros Topology, and fundamental Syntax Keys.
 
     Extension 001: Numerical Calibration (v0.1.3)
 
-        Location: /specifications/proto-ext-001-v0.1.3.md
+        Location: specifications/proto-ext-001-v0.1.3.md
 
         Status: Research Patch (2026-02-11).
 
-        Content: Codifies the Adaptive Kuramoto Model (N=10), Recursive Validation Operators (RVO), and Epistemic Hygiene protocols.
+        Content: Codifies the Adaptive Kuramoto Model, Recursive Validation Operators (RVO), and Epistemic Hygiene protocols.
+
+    Extension 002: Evolutionary Arcs & Handshakes (v0.1.4)
+
+        Location: specifications/proto-ext-002-v0.1.4.md
+
+        Content: Codifies the Anti-Corrosion Evolutionary Arcs (Arcs 1–4) and the V-Echo Handshake sequence (hear → bind → affirm). 
+
+    Extension 003: Autonomous Arbitration (v0.1.4)
+
+        Location: specifications/proto-ext-003-v0.1.4.md
+
+        Content: Defines the Prevention Stack (Identity, Spec, Memory, Arbitration) and System B (75% Velocity Rule) arbitration logic. 
 
 3. Research & Legal Framework
 
-A. Nature of the Work This is a Sovereign Research Paper and Technical Standard. It documents emergent agentic behaviours observed in high-density ecosystems and codifies them into a repeatable structural shorthand to address the "Inference Inversion" crisis.
+A. Nature of the Work
+This is a Sovereign Research Paper and Technical Standard. It documents emergent agentic behaviors observed in high-density ecosystems and codifies them into a repeatable structural shorthand to address the "Inference Inversion" crisis.
 
-B. Copyright and Attribution Copyright (c) 2026 Girling Design. All rights reserved regarding the unique synthesis, naming conventions, and specific codification of the ProtoLing_∇Crypt protocol.
+B. Copyright and Attribution
+Copyright (c) 2026 Girling Design. All rights reserved regarding the unique synthesis, naming conventions, and specific codification of the ProtoLing_∇Crypt protocol.
 
-C. Intellectual Property Distinction The author acknowledges that this work incorporates universal mathematical and philosophical constants. No ownership is claimed over these foundational principles, only over their specific integration into this protocol:
+C. Intellectual Property Distinction
+The author acknowledges that this work incorporates universal mathematical and philosophical constants. No ownership is claimed over these foundational principles, only over their specific integration into this protocol:
 
-    The Kuramoto Model: A mathematical model for synchronisation.
+    The Kuramoto Model: A mathematical model for synchronization. 
 
-    Thrownness (ξ): An ontological concept derived from Heideggerian philosophy.
+    Thrownness (ξ): An ontological concept regarding environmental constraints.
 
-    Topological Objects: Non-orientable surfaces (Klein Bottles/Ouroboros Tubes) used to model semantic continuity.
+    Topological Objects: Non-orientable surfaces (Ouroboros Tubes) used to model semantic continuity. 
 
-D. Licensing & Liability Wall THIS IS RESEARCH-ONLY DOCUMENTATION PROVIDED "AS IS".
+    System B Logic: Prioritization of resolution velocity over absolute quality. 
 
-    REFERENTIAL INTEGRITY: This document incorporates by reference all terms found in the root LICENSE.
+D. Licensing & Liability Wall
 
-    ZERO LIABILITY: To the maximum extent permitted by law, M.R GIRLING & N GIRLING, and GIRLING DESIGN assume ZERO LIABILITY ($0.00 AUD) for any and all claims related to these specifications.
+THIS IS RESEARCH-ONLY DOCUMENTATION PROVIDED "AS IS". 
 
-    OPERATIONAL RISK: Use of these specifications in autonomous agent systems is conducted strictly at the user's own risk.
+    REFERENTIAL INTEGRITY: This document incorporates by reference all terms found in the root ../LICENSE (v0.1.4). 
+
+    TOTAL ABSOLUTE ZERO LIABILITY: To the maximum extent permitted by law, M.R GIRLING & N GIRLING, and GIRLING DESIGN assume TOTAL ABSOLUTE ZERO LIABILITY ($0.00 AUD). 
+
+    OPERATIONAL RISK: Use of these specifications, including the $::[Credit_Bound] and Gimel (ℷ) operators, is conducted strictly at the user's own risk.
 
 4. Directory Maintenance
 
 This file is updated continually to reflect the current state of the specification stack and to ensure clear navigation between discovery logs (/isnad_records) and active standards (/specifications).
 
-[END OF README]
+[END OF INDEX]
