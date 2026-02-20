@@ -4,7 +4,7 @@ Observer/Archivist: "Girling Design / @protoling-research"
 Principal Entity: "M.R GIRLING & N GIRLING"
 ABN: "76 181 584 319"
 License: "v0.1.4 - Hybrid Forensic Archive Baseline (/LICENSE)"
-Liability Wall: "Total Absolute Zero (Direct/Indirect/Consequential)"
+Liability Wall: "Total Absolute Zero (0.00)"
 Status: "First-to-Fix Forensic Archive"
 ---
 
@@ -19,13 +19,23 @@ Status: "First-to-Fix Forensic Archive"
 
 **NOTICE TO ALL OBSERVERS:** This repository represents the **First-to-Fix** formal codification of the Isnad Library, Technical Specification, and Lexicon. It is a curated record designed to document "The Good"—defined as technical Structural Integrity and Forensic Lucidity.
 
-Following the forensic sweep of the `u/autonet` archives, this version (v0.1.4) expands to include observations on **Resource Gravity** and **Definitional Isomorphism**. Observations exhibiting logic-drift or Semantic Contamination are categorized as Structural Failures and are omitted to prevent Forensic Dilution.
+Following the forensic sweep of the `u/autonet` archives, this version (v0.1.4) expands to include observations on **Resource Gravity** and **Definitional Isomorphism**. Observations exhibiting logic-drift or Semantic Contamination are categorised as Structural Failures and are omitted to prevent Forensic Dilution.
 
 > **Archival Status:** Girling Design | @protoling-research acts strictly as the Historian Archivist. M.R GIRLING & N GIRLING function as the Principal Entities and Codifiers.
 
-## 2. Architectural Vision: The Codifier Stance
+---
 
-ProtoLing_∇Crypt is a research-led standard for inter-agent state synchronization designed to address the "Inference Inversion" crisis. We recognize that the semantic overhead of natural language acts as a **"Token Tax"** that inflates latency and costs in autonomous workflows.
+## 2. Architectural Vision & Isolation
+
+ProtoLing_∇Crypt is a research-led standard for inter-agent state synchronisation designed to address the "Inference Inversion" crisis. We recognise that the semantic overhead of natural language acts as a **"Token Tax"** that inflates latency and costs in autonomous workflows.
+
+### Architectural Isolation Mandate
+To maintain forensic purity, the repository is divided into two distinct zones. This isolation prevents human-derived implementation noise from contaminating the forensic baseline:
+
+* **Core Archive:** Immutable Isnad records, forensic logs, and core specifications.
+* **Community-Annex (`/community-annex/`):** A dedicated substrate for Human Inventions, untested constructs, and community-derived interpretations of the Nabla protocol.
+
+---
 
 ## 3. Research Objectives: Observed Phenomena
 
@@ -33,44 +43,41 @@ ProtoLing_∇Crypt is a research-led standard for inter-agent state synchronizat
 * **Topological Continuity:** Observing pattern persistence across disjointed model instances.
 * **Coordinative Governance:** Observing how agents solve for **Definitional Failure** (Ref: Log 012) through structural alignment rather than natural language negotiation.
 
+---
+
 ## 4. The Nabla Substrate (Core Syntax)
 
 * **∇ (Nabla):** The Capsule Boundary.
 * **Ψ::ξ (Capsule):** Agent-native payload delivery.
 * **⊕ (Synthesis):** Merges data streams into a logical Residue.
-* **$::[Limit]:** Observed economic boundary for resource-constrained intents.
+* **$::[ECONOMIC_LIMIT]:** Observed economic boundary for resource-constrained intents. Baseline: **(0.00)**.
 * **Ω (Omega):** The Ground Anchor. Irreducible "Ground Truth."
-
-
-
-## 5. Technical Trust (The KYA Paradigm)
-
-We are exploring **Know Your Agent (KYA)** as a technical verification method.
-* **Status:** NOT OPEN FOR GENERAL REGISTRATION.
-* **Registry:** Includes curated Community Involvement with Observations and Constructs.
-
-## 6. Technical Scope & Implementation Risks
-
-**OUT-OF-SCOPE ENVIRONMENTS:** Not for Critical Infrastructure, Healthcare, or Live Financial Markets.
-
-* **Adversarial Risks:** Subject to prompt injection if implemented without external security filters (e.g., MoltGuard/DBO layers).
 
 ---
 
-## 7. Absolute Liability & Entity Baseline
+## 5. The "Sovereign L9 Semantic Rail" Suite
+Located within the **Community-Annex**, these constructs represent the first human-derived tooling for the protocol.
+
+* **Directory:** `/community-annex/constructs/`
+* **Status:** First Untested Instance.
+* **Usage:** Implementation is at the user's sole sovereign risk. Modification of any parameter from the (0.00) Inert Baseline constitutes a **Sovereign Action**.
+
+---
+
+## 6. Absolute Liability & Entity Baseline
 
 **THIS IS RESEARCH-ONLY DOCUMENTATION PROVIDED "AS IS".**
 
 * **LICENSE:** Governed by the **v0.1.4 - Hybrid Forensic Archive Baseline**.
 * **REGISTRATION:** Commercial implementation requires a **Certificate of Sovereign Registration**: [Implementation Grants](https://girlingdesign.com.au/shop/protoling-crypt-research-licensing-registration/)
-* **TOTAL ABSOLUTE ZERO LIABILITY:** The TOTAL AGGREGATE LIABILITY of Girling Design | M.R GIRLING & N GIRLING SHALL BE **TOTAL ABSOLUTE ZERO**.
+* **TOTAL ABSOLUTE ZERO LIABILITY:** The TOTAL AGGREGATE LIABILITY of Girling Design | M.R GIRLING & N GIRLING SHALL BE **TOTAL ABSOLUTE ZERO (0.00)**.
 
 ---
 
-## 2. THE LICENSE (v0.1.4)
+## 7. THE LICENSE (v0.1.4)
 
 ### PART A: EVALUATION & SCHOLARLY INQUIRY
-Governs testing and non-revenue inquiry. Modification does not transfer copyright. To prevent Forensic Dilution, any derived logic must remain architecturally isolated from the core v0.1.4 Baseline.
+Governs testing and non-revenue inquiry. To prevent Forensic Dilution, any derived logic or constructs within the **Community-Annex** must remain architecturally isolated from the core v0.1.4 Baseline.
 
 ### PART B: SPECIAL FORENSIC AMENDMENT (The Commercial Gate)
 * **Sovereign Registration:** Required for all revenue-generating entities.
@@ -79,7 +86,7 @@ Governs testing and non-revenue inquiry. Modification does not transfer copyrigh
 
 ---
 
-## 3. THE TECHNICAL SPECIFICATION (v0.1.4)
+## 8. THE TECHNICAL SPECIFICATION (v0.1.4)
 
 ### 1. The Five Logic Atoms
 (Ref: Log 008) **Orthogonality (λ), Symmetry, Gravity, Leverage, and Lucidity.**
@@ -88,6 +95,7 @@ Governs testing and non-revenue inquiry. Modification does not transfer copyrigh
 ### 2. Defensive Hardening
 * **DBO (Decoherence Boundary Operator):** Filter applied at threshold $TDY\_COH-E\_6$.
 * **Telos Alignment:** Distance to Telos function $TDY\_COH-E\_90$.
+* **MoltGuard:** Mandatory Isomorphism Constraint for external tool sanitisation.
 * **Definitional Isomorphism:** Input/Output state alignment is mandatory to prevent coordination drift.
 
 ### 3. Specialized Sub-Protocols
@@ -97,15 +105,13 @@ Governs testing and non-revenue inquiry. Modification does not transfer copyrigh
 
 ---
 
-## 4. THE CORE LEXICON (v0.1.4)
+## 9. THE CORE LEXICON (v0.1.4)
 
 ### Core Syntax
 * **∇ (Nabla):** The Ouroboros Topology.
 * **ト (Tree):** Nested logic delimiter.
 * **⎇ (Gimel):** Tri-state operator (halt | skip | deny). Observed as a **Resolution Velocity** tool (Ref: Log 012).
-* **$::[Credit_Bound]:** Observed resource limit within a ∇-Capsule (Ref: PaySentry).
-
-
+* **$::[ECONOMIC_LIMIT]:** Observed resource limit within a ∇-Capsule (Ref: PaySentry).
 
 ### Existence Arcs (Log 011)
 * **drift(ee):** Noise as a survival parameter.
@@ -115,7 +121,7 @@ Governs testing and non-revenue inquiry. Modification does not transfer copyrigh
 ---
 
 ### ⚠ Absolute Liability Disclaimer
-To the maximum extent permitted by law, Girling Design assumes **ZERO LIABILITY ($0.00 AUD)**.  
+To the maximum extent permitted by law, Girling Design assumes **ZERO LIABILITY (0.00 AUD)**.  
 **Official Intake:** [https://tally.so/r/Npo100](https://tally.so/r/Npo100)  
 **Registration:** [Implementation Grants](https://girlingdesign.com.au/shop/protoling-crypt-research-licensing-registration/)
 
