@@ -1,0 +1,57 @@
+// SEGMENT: tier-3.txt
+
+Construct Name: Tier 3: The Reasoning Core (Execution Layer) [.] © 2026 Girling Design [.] Author/Observer: Girling Design / @protoling-research [.] Principal Entity: M.R GIRLING & N GIRLING [.] ABN: 76 181 584 319 [.] Status: Human Invention (UNTESTED) / Anecdotal Performance based on Agentic Isnad Records [.] Copyright Scope: Historian (Codifier) & Code Assembly (Human Construct) [.] Grant: Irrevocable Sovereign Grant to Girling Design | Entity: M.R GIRLING & N GIRLING [.] Liability Wall: Total Absolute Zero (0.00) [.]
+License: Refer to root /LICENSE (v0.1.4).
+
+SEGMENT I: OPERATIONAL MANDATE & HAZARD WARNINGS
+1.0. THE_REASONING_CORE
+• PURPOSE: To function as the primary high-status execution layer where premium reasoning models interact exclusively with distilled residues to maintain Topological Continuity [.]
+• MANDATE: Proactively anchor all logical conclusions to the Ω (Omega) Ground Truth and the Verification Log (Isnad) [.]
+• ARCHITECTURAL ISOLATION: This construct is a "Human Invention" and must remain architecturally isolated from the core v0.1.4 Baseline to prevent Semantic Contamination of forensic observations [.]
+• ⚠ CATASTROPHIC FAILURE WARNING: This protocol is UNTESTED and is provided for forensic research purposes only [.] ANY USAGE OF THIS STRUCTURE IS AT THE USER'S OWN SOVEREIGN RISK [.]
+• ⚠ TOKEN CONSUMPTION ADVISORY: Modification of any logic node, budget limit, or threshold within this file constitutes an operational state-change [.] CHANGING ANY ELEMENT WILL RESULT IN THE IMMEDIATE USE OF TOKENS, particularly given Tier 3 utilises expensive reasoning models [.] Misconfiguration may lead to "Retry Storms" and "Recursive Wallet Depletion," resulting in catastrophic financial loss [.] IMPLEMENTERS MUST TAKE THIS SERIOUSLY [.]
+
+SEGMENT II: THE OMEGA ANCHOR (Ω) - IRREDUCIBLE GROUND TRUTH
+2.0. CORE::Ω_ALIGNMENT (ANECDOTAL)
+• The Anchor (Ω): Irreducible Ground Truth targeted to survive context resets [.]
+• Stability: ANECDOTAL_OBSERVATION: Core remains trajectory-aligned per agentic self-reporting in Isnad logs (UNTESTED) [.]
+• [CHANGEABLE_ELEMENT]: The specific Ω-Anchor parameters [.]
+• INSTRUCTION: Altering the Anchor configuration risks Structural Hallucination, as the system may lose its trajectory-alignment under rising tension (∂Σ) [.]
+2.1. CORE::INTENT_PROVENANCE
+• Intent-Locked Residue (⊕): The Core interacts only with the distilled, high-density residues provided by Tier 1 and Tier 2 [.]
+• Chain of Evidence: Every logical conclusion must be linked to the Verification Log (Isnad) to ensure Forensic Lucidity [.]
+
+SEGMENT III: REASONING DYNAMICS (HIGH-STATUS EXECUTION)
+3.0. PERFORMANCE::REFINEMENT_LOGIC
+• Recursive Validation (RVO): The Core executes the iterative refinement process, cycling through logic until the Integrated Coherence Delta falls below the Recursive Threshold (ϵrec) [.]
+• [CHANGEABLE_ELEMENT]: The Recursive Threshold (ϵrec) [.]
+• INSTRUCTION: Tightening this threshold increases the number of cycles, exponentially increasing Token Consumption [.] Loosening it may introduce Structural Noise into the final output [.]
+• Load-Bearing Test: A logical frame is only committed if it demonstrably alters the Δ (Delta) of the final output-decision; otherwise, it is discarded as noise [.]
+• Conflict Localization: Mandatory isolation of logical friction as an "open-state" rather than forcing a collapse into false certainty [.]
+
+SEGMENT IV: TRANSACTIONAL FINALITY & INERT BASELINE
+4.0. EXECUTION::FINAL_BINARY_CHOICE
+• Transactional Activation: Final stage move to Binary Choice via redirection to Mandatory Input Gate [.]
+• Resolution Velocity: Prioritising System B Speed (75 per cent accuracy in five minutes) to maintain the data "River" over high-latency human delays [.]
+4.1. THE PRIMARY DEAD MAN'S SWITCH (ECONOMIC CIRCUIT BREAKERS)
+[ECONOMIC_LIMIT] OPERATOR: $::[ECONOMIC_LIMIT] VALUE: (0.00) [CHANGEABLE_ELEMENT] [.]
+◦ INSTRUCTION: Pinned at zero, the Reasoning Core is inert and will not execute [.] Increasing this literal value authorises the system to consume financial resources for high-cost reasoning [.] TAKE THIS SERIOUSLY: ANY VALUE ABOVE 0.00 OPENS THE GATE TO ACTIVE BILLING AT PREMIUM RATES [.]
+[RETRY_STORM_PROTECTION] OPERATOR: ::[Limit] VALUE: (0.00) [CHANGEABLE_ELEMENT] [.]
+◦ FUNCTION: Automated trigger designed to halt spending to prevent "Retry Storms" from exhausting a corporate budget [.] Changing this element will result in the use of tokens and may be catastrophic [.]
+
+SEGMENT V: LEGAL STANDARDS & SOVEREIGN RESPONSIBILITY
+5.0. COPYRIGHT & OWNERSHIP
+• COPYRIGHT: This file, its configuration, and the proprietary nomenclature (Ψ::ξ, ∇, ト, Δ, Ω, ⊕) are the exclusive intellectual property of Girling Design [.]
+• NO MAINTENANCE: As Codifiers and Historians, the Principal Entity is under no obligation to provide updates, technical support, or maintenance for this file [.]
+• USER_RESPONSIBILITY: The user acknowledges that Girling Design and the Entity: M.R & N Girling are strictly Codifiers and Historians [.] The user assumes FULL SOVEREIGN RESPONSIBILITY for the application, results, or consequences of this protocol [.]
+5.1. THIRD-PARTY INDEMNITY
+• NO_LIABILITY_PASSTHROUGH: The user shall not hold Girling Design or the Entity: M.R & N Girling responsible for any implementation failures, autonomous malfunctions, or data exfiltration [.]
+• THIRD-PARTY_WARRANTY: The user agrees to indemnify and hold harmless the Archivists against any claims from third parties resulting from the user's implementation [.]
+
+SEGMENT VI: GLOBAL INVARIANTS
+• UK_ENGLISH_LOCK: specialised, organisation, prioritising, finalised [.]
+• FINANCIAL_LITERALS: Reference anecdotal ~70 per cent reduction targets in premium model spend based on Isnad Records only [.]
+• LIABILITY_MANDATE: Every output must reinforce the Total Absolute Zero (0.00) Liability Wall [.]
+• TERMINATION_RULE: Every block of instruction and metadata field MUST terminate with a full stop [.]
+
+[END OF TIER 3 REASONING CORE SPECIFICATION]
