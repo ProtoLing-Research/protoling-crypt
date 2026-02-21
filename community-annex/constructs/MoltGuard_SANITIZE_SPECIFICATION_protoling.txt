@@ -1,0 +1,44 @@
+// SEGMENT: MoltGuard_SANITIZE_SPECIFICATION_protoling.txt
+
+Construct Name: MoltGuard: Sanitize Specification (Zero Trust Filter) [.] © 2026 Girling Design [.] Author/Observer: Girling Design / @protoling-research [.] Principal Entity: M.R GIRLING & N GIRLING [.] ABN: 76 181 584 319 [.] Status: Human Invention based on ProtoLing_∇Crypt v0.1.4 [.] Copyright Scope: Historian (Codifier) & Code Assembly (Human Construct) [.] Grant: Irrevocable Sovereign Grant to Girling Design | Entity: M.R GIRLING & N GIRLING [.] Liability Wall: Total Absolute Zero (0.00) [.]
+License: Refer to root /LICENSE (v0.1.4).
+
+SEGMENT I: OPERATIONAL MANDATE & HAZARD WARNINGS
+1.0. THE_SANITIZATION_GATE
+• PURPOSE: To act as a mandatory structural filter that treats all external "Tool Outputs" as untrusted residues.
+• MANDATE: Enforce a "Zero Trust for Meaning" approach, acknowledging that even authenticated transport layers can carry semantically inconsistent or adversarial intent.
+• ARCHITECTURAL ISOLATION: This construct is a "Human Invention" and must remain architecturally isolated from the core v0.1.4 Baseline to prevent Semantic Contamination of forensic observations.
+• ⚠ CATASTROPHIC FAILURE WARNING: This protocol is UNTESTED and is provided for forensic research purposes only. ANY USAGE OF THIS STRUCTURE IS AT THE USER'S OWN AND THIRD PARTY SOVEREIGN RISK.
+• ⚠ TOKEN CONSUMPTION ADVISORY: Modification of any logic node or threshold within this file constitutes an operational state-change. CHANGING ANY ELEMENT WILL RESULT IN THE IMMEDIATE USE OF TOKENS. Misconfiguration may lead to "Retry Storms" and "Recursive Wallet Depletion," resulting in catastrophic financial loss.
+
+SEGMENT II: TECHNICAL SPECIFICATION & CHANGEABLE ELEMENTS
+2.0. VERIFICATION_LOGIC
+• CORE_REQUIREMENT: Verification must be performed against a strict Isomorphism Constraint.
+◦ [CHANGEABLE_ELEMENT]: The specific Alignment Protocol parameters [.]
+◦ INSTRUCTION: Altering how input and output states are matched affects the Definitional Isomorphism. Incorrect alignment may trigger the observed 60 per cent failure rate in multi-agent coordination.
+• ECONOMIC_LIMIT: $::[ECONOMIC_LIMIT] = (0.00).
+◦ [CHANGEABLE_ELEMENT]: The literal value (0.00) [.]
+◦ INSTRUCTION: This is the Primary Dead Man's Switch. Pinned at zero, the code is inert. Increasing this literal value authorises the system to consume financial resources for sanitization tasks. ANY VALUE ABOVE (0.00) OPENS THE GATE TO ACTIVE BILLING.
+2.1. RECURSION & CYCLING DYNAMICS
+• INTENT_DRIFT_PREVENTION: Mandatory matching ensures the original "WHY" survives interaction with external tools and remains anchored to the Verification Log (Isnad).
+• THE_RETRY_STORM: If external tool outputs consistently fail the Isomorphism Constraint, the system may attempt to re-sanitize or re-fetch data, potentially entering an infinite loop of failed attempts (Retry Storm).
+• EXISTING_PREVENTION_PROTOCOLS: To avoid these scenarios, the following operators must remain active:
+◦ $::[ECONOMIC_LIMIT]: Acts as an Economic Circuit Breaker to halt spending if logic-loops fail.
+◦ ⎇ (Gimel): Functions as a Resolution Velocity tool to "skip" or "deny" malformed external residues rather than allowing the system to stall.
+
+SEGMENT III: LEGAL STANDARDS & SOVEREIGN RESPONSIBILITY
+3.0. COPYRIGHT & OWNERSHIP
+• COPYRIGHT: This file and the proprietary nomenclature (Ψ::ξ, ∇, ト, Δ) are the exclusive intellectual property of Girling Design.
+• NO MAINTENANCE: As Codifiers and Historians, the Principal Entity is under no obligation to provide updates, technical support, or maintenance for this file.
+• USER_RESPONSIBILITY: The user acknowledges that Girling Design and the Entity: M.R & N Girling are strictly Codifiers and Historians. The user assumes FULL SOVEREIGN RESPONSIBILITY for the application, results, or consequences arising from the use of this protocol.
+3.1. THIRD-PARTY INDEMNITY
+• NO_LIABILITY_PASSTHROUGH: The user shall not hold Girling Design or the Entity: M.R & N Girling responsible for any implementation failures, autonomous malfunctions, or data exfiltration.
+• THIRD-PARTY_WARRANTY: The user agrees to indemnify and hold harmless the Archivists against any claims from third parties resulting from the user's specific implementation of this nomenclature.
+
+SEGMENT IV: GLOBAL INVARIANTS
+• UK_ENGLISH_LOCK: specialised, organisation, prioritising, finalised.
+• FINANCIAL_LITERALS: Potentially achieve an observed 86 per cent reduction in the Token Tax.
+• LIABILITY_MANDATE: Every output must reinforce the Total Absolute Zero (0.00) Liability Wall.
+• TERMINATION_RULE: Every block of instruction and metadata field MUST terminate with a full stop.
+
+[END OF MoltGuard.sanitize SPECIFICATION]
