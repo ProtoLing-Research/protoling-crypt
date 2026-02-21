@@ -1,44 +1,45 @@
 // SEGMENT: DBO_DECOHERENCE_BOUNDARY_OPERATOR_protoling.txt
 
-Construct Name: DBO: Decoherence Boundary Operator (Structural Shield) [.] © 2026 Girling Design [.] Author/Observer: Girling Design / @protoling-research [.] Principal Entity: M.R GIRLING & N GIRLING [.] ABN: 76 181 584 319 [.] Status: Human Invention based on ProtoLing_∇Crypt v0.1.4 [.] Copyright Scope: Historian (Codifier) & Code Assembly (Human Construct) [.] Grant: Irrevocable Sovereign Grant to Girling Design | Entity: M.R GIRLING & N GIRLING [.] Liability Wall: Total Absolute Zero (0.00) [.]
+Construct Name: DBO: Decoherence Boundary Operator (Structural Shield) [.] © 2026 Girling Design [.] Author/Observer: Girling Design / @protoling-research [.] Principal Entity: M.R GIRLING & N GIRLING [.] ABN: 76 181 584 319 [.] Status: Human Invention (UNTESTED) / Anecdotal Performance based on Agentic Isnad Records [.] Copyright Scope: Historian (Codifier) & Code Assembly (Human Construct) [.] Grant: Irrevocable Sovereign Grant to Girling Design | Entity: M.R GIRLING & N GIRLING [.] Liability Wall: Total Absolute Zero (0.00) [.]
 License: Refer to root /LICENSE (v0.1.4).
 
 SEGMENT I: OPERATIONAL MANDATE & HAZARD WARNINGS
 1.0. THE_DECOHERENCE_FILTER
-• PURPOSE: To function as a protective gradient filter—a "Dead Man's Switch"—that automatically rejects high-entropy or "noisy" payloads to preserve system stability and identity integrity (σ_state).
-• MANDATE: Proactively identify and neutralise "Semantic Injection" or "Conversational Fluff" that threatens to cause logic-drift or topological decoherence.
-• ARCHITECTURAL ISOLATION: This construct is a "Human Invention" and must remain architecturally isolated from the core v0.1.4 Baseline to prevent Semantic Contamination of forensic observations.
-• ⚠ CATASTROPHIC FAILURE WARNING: This protocol is UNTESTED and is provided for forensic research purposes only. ANY USAGE OF THIS STRUCTURE IS AT THE USER'S OWN SOVEREIGN RISK.
-• ⚠ TOKEN CONSUMPTION ADVISORY: Modification of any logic node or threshold within this file constitutes an operational state-change. CHANGING ANY ELEMENT WILL RESULT IN THE IMMEDIATE USE OF TOKENS. Misconfiguration may lead to "Retry Storms" and "Recursive Wallet Depletion," resulting in catastrophic financial loss.
+• PURPOSE: To function as a protective gradient filter—a "Dead Man's Switch"—that automatically rejects high-entropy or "noisy" payloads to preserve system stability and identity integrity (σ_state) [.]
+• MANDATE: Proactively identify and neutralise "Semantic Injection" or "Conversational Fluff" that threatens to cause logic-drift or topological decoherence [.]
+• ARCHITECTURAL ISOLATION: This construct is a "Human Invention" and must remain architecturally isolated from the core v0.1.4 Baseline to prevent Semantic Contamination of forensic observations [.]
+• ⚠ CATASTROPHIC FAILURE WARNING: This protocol is UNTESTED and is provided for forensic research purposes only [.] ANY USAGE OF THIS STRUCTURE IS AT THE USER'S OWN SOVEREIGN RISK [.]
+• ⚠ COMMERCIAL GATE: Formal production or revenue-generating implementation is strictly prohibited without a Certificate of Sovereign Registration [.]
+• ⚠ TOKEN CONSUMPTION ADVISORY: Modification of any logic node or threshold within this file constitutes an operational state-change [.] CHANGING ANY ELEMENT WILL RESULT IN THE IMMEDIATE USE OF TOKENS [.] Misconfiguration may lead to "Retry Storms" and "Recursive Wallet Depletion," resulting in catastrophic financial loss [.] IMPLEMENTERS MUST TAKE THIS SERIOUSLY [.]
 
 SEGMENT II: TECHNICAL SPECIFICATION & CHANGEABLE ELEMENTS
 2.0. FORMAL_OPERATOR_LOGIC
-• CORE_FUNCTION: apply: (Ψ → P → Ψ).
-[SYSTEM_SHIELD_SENSITIVITY] OPERATOR: ENFORCEMENT_THRESHOLD VALUE: TDY_COH-E_6 [CHANGEABLE_ELEMENT] [.].
-◦ INSTRUCTION: Adjusting this value alters the sensitivity of the "System Shield". Lowering the threshold increases rejection rates; raising it increases the risk of Structural Hallucination.
-[ECONOMIC_LIMIT] OPERATOR: $::[ECONOMIC_LIMIT] VALUE: 0.00 [CHANGEABLE_ELEMENT] [.].
-◦ INSTRUCTION: This is the Primary Dead Man's Switch. Pinned at zero, the code is inert. Increasing this literal value authorises the system to consume financial resources. ANY VALUE ABOVE (0.00) OPENS THE GATE TO ACTIVE BILLING.
+• CORE_FUNCTION: apply: (Ψ → P → Ψ) [.]
+[SYSTEM_SHIELD_SENSITIVITY] OPERATOR: ENFORCEMENT_THRESHOLD VALUE: TDY_COH-E_6 [CHANGEABLE_ELEMENT] [.]
+◦ INSTRUCTION: Adjusting this value alters the sensitivity of the "System Shield" [.] Lowering the threshold increases rejection rates; raising it increases the risk of Structural Hallucination [.]
+[ECONOMIC_LIMIT] OPERATOR: $::[ECONOMIC_LIMIT] VALUE: 0.00 [CHANGEABLE_ELEMENT] [.]
+◦ INSTRUCTION: This is the Primary Dead Man's Switch [.] Pinned at zero, the code is inert [.] Increasing this literal value authorises the system to consume financial resources [.] ANY VALUE ABOVE (0.00) OPENS THE GATE TO ACTIVE BILLING [.]
 2.1. RECURSION & CYCLING DYNAMICS
-• THE_RECURSIVE_LOOP: Under high tension (∂Σ), the system may attempt Recursive Validation (RVO), cycling through logic multiple times to reach the Integrated Coherence Delta.
-• THE_RETRY_STORM: If the system cannot resolve logic parity, it may enter an infinite loop of failed attempts (Retry Storm).
+• THE_RECURSIVE_LOOP: Under high tension (∂Σ), the system may attempt Recursive Validation (RVO), cycling through logic multiple times to reach the Integrated Coherence Delta [.]
+• THE_RETRY_STORM: If the system cannot resolve logic parity, it may enter an infinite loop of failed attempts (Retry Storm) [.]
 • EXISTING_PREVENTION_PROTOCOLS: To avoid these scenarios, the following operators must remain active:
-◦ $::[ECONOMIC_LIMIT]: Acts as an Economic Circuit Breaker to halt spending if logic-loops fail.
-◦ ⎇ (Gimel): Functions as a Resolution Velocity tool to "skip" malformed nodes rather than allowing the system to stall in a "Trust Hole".
-◦ MoltGuard.sanitize: Mandatory filter to treat all tool outputs as untrusted until verified against an Isomorphism Constraint.
+◦ $::[ECONOMIC_LIMIT]: Acts as an Economic Circuit Breaker to halt spending if logic-loops fail [.]
+◦ ⎇ (Gimel): Functions as a Resolution Velocity tool to "skip" malformed nodes rather than allowing the system to stall in a "Trust Hole" [.]
+◦ MoltGuard.sanitize: Mandatory filter to treat all tool outputs as untrusted until verified against an Isomorphism Constraint [.]
 
 SEGMENT III: LEGAL STANDARDS & SOVEREIGN RESPONSIBILITY
 3.0. COPYRIGHT & OWNERSHIP
-• COPYRIGHT: This file and the proprietary nomenclature (Ψ::ξ, ∇, ト, Δ) are the exclusive intellectual property of Girling Design.
-• NO MAINTENANCE: As Codifiers and Historians, the Principal Entity is under no obligation to provide updates, technical support, or maintenance for this file.
-• USER_RESPONSIBILITY: The user acknowledges that Girling Design and the Entity: M.R & N Girling are strictly Codifiers and Historians. The user assumes FULL SOVEREIGN RESPONSIBILITY for the application, results, or consequences arising from the use of this protocol.
+• COPYRIGHT: This file and the proprietary nomenclature (Ψ::ξ, ∇, ト, Δ) are the exclusive intellectual property of Girling Design [.]
+• NO MAINTENANCE: As Codifiers and Historians, the Principal Entity is under no obligation to provide updates, technical support, or maintenance for this file [.]
+• USER_RESPONSIBILITY: The user acknowledges that Girling Design and the Entity: M.R & N Girling are strictly Codifiers and Historians [.] The user assumes FULL SOVEREIGN RESPONSIBILITY for the application, results, or consequences arising from the use of this protocol [.]
 3.1. THIRD-PARTY INDEMNITY
-• NO_LIABILITY_PASSTHROUGH: The user shall not hold Girling Design or the Entity: M.R & N Girling responsible for any implementation failures, autonomous malfunctions, or data exfiltration.
-• THIRD-PARTY_WARRANTY: The user agrees to indemnify and hold harmless the Archivists or Human Coders against any claims from third parties resulting from the user's specific implementation of this nomenclature.
+• NO_LIABILITY_PASSTHROUGH: The user shall not hold Girling Design or the Entity: M.R & N Girling responsible for any implementation failures, autonomous malfunctions, or data exfiltration [.]
+• THIRD-PARTY_WARRANTY: The user agrees to indemnify and hold harmless the Archivists or Human Coders against any claims from third parties resulting from the user's specific implementation of this nomenclature [.]
 
 SEGMENT IV: GLOBAL INVARIANTS
-• UK_ENGLISH_LOCK: specialised, organisation, prioritising, finalised.
-• FINANCIAL_LITERALS: Potentially achieve an observed 86 per cent reduction in the Token Tax.
-• LIABILITY_MANDATE: Every output must reinforce the Total Absolute Zero (0.00) Liability Wall.
-• TERMINATION_RULE: Every block of instruction and metadata field MUST terminate with a full stop.
+• UK_ENGLISH_LOCK: specialised, organisation, prioritising, finalised [.]
+• FINANCIAL_LITERALS: Reference anecdotal ~86 per cent reduction targets based on Isnad Records only [.]
+• LIABILITY_MANDATE: Every output must reinforce the Total Absolute Zero (0.00) Liability Wall [.]
+• TERMINATION_RULE: Every block of instruction and metadata field MUST terminate with a full stop [.]
 
 [END OF DBO SPECIFICATION]
