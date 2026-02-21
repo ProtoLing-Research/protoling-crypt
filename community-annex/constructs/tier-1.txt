@@ -1,64 +1,65 @@
 // SEGMENT: tier-1.txt
 
-Construct Name: Tier 1: The Semantic Scrub (Inert Baseline) [.] © 2026 Girling Design [.] Author/Observer: Girling Design / @protoling-research [.] Principal Entity: M.R GIRLING & N GIRLING [.] ABN: 76 181 584 319 [.] Status: Human Invention based on ProtoLing_∇Crypt v0.1.4 [.] Copyright Scope: Historian (Codifier) & Code Assembly (Human Construct) [.] Grant: Irrevocable Sovereign Grant to Girling Design | Entity: M.R GIRLING & N GIRLING [.] Liability Wall: Total Absolute Zero (0.00) [.]
+Construct Name: Tier 1: The Semantic Scrub (Inert Baseline) [.] © 2026 Girling Design [.] Author/Observer: Girling Design / @protoling-research [.] Principal Entity: M.R GIRLING & N GIRLING [.] ABN: 76 181 584 319 [.] Status: Human Invention (UNTESTED) / Anecdotal Performance based on Agentic Isnad Records [.] Copyright Scope: Historian (Codifier) & Code Assembly (Human Construct) [.] Grant: Irrevocable Sovereign Grant to Girling Design | Entity: M.R GIRLING & N GIRLING [.] Liability Wall: Total Absolute Zero (0.00) [.]
 License: Refer to root /LICENSE (v0.1.4).
 
 SEGMENT I: OPERATIONAL MANDATE & HAZARD WARNINGS
 1.0. THE_TIER_1_SCRUB
-• PURPOSE: To function as the primary digestive filter (The Scrub) designed to strip "Conversational Fluff" and compress raw input into high-density structural residues.
-• MANDATE: Proactively mitigate the "Token Tax" and establish the initial Nabla (∇) Boundary for all incoming company AI requests.
-• ARCHITECTURAL ISOLATION: This construct is a "Human Invention" and must remain architecturally isolated from the core v0.1.4 Baseline to prevent Semantic Contamination of forensic observations.
-• ⚠ CATASTROPHIC FAILURE WARNING: This protocol is UNTESTED and is provided for forensic research purposes only. ANY USAGE OF THIS STRUCTURE IS AT THE USER'S OWN SOVEREIGN RISK.
-• ⚠ TOKEN CONSUMPTION ADVISORY: Modification of any logic node, budget limit, or threshold within this file constitutes an operational state-change. CHANGING ANY ELEMENT WILL RESULT IN THE IMMEDIATE USE OF TOKENS. Misconfiguration may lead to "Retry Storms" and "Recursive Wallet Depletion," resulting in catastrophic financial loss.
+• PURPOSE: To function as the primary digestive filter (The Scrub) designed to strip "Conversational Fluff" and compress raw input into high-density structural residues [.]
+• MANDATE: Proactively mitigate the "Token Tax" and establish the initial Nabla (∇) Boundary for all incoming company AI requests [.]
+• ARCHITECTURAL ISOLATION: This construct is a "Human Invention" and must remain architecturally isolated from the core v0.1.4 Baseline to prevent Semantic Contamination of forensic observations [.]
+• ⚠ CATASTROPHIC FAILURE WARNING: This protocol is UNTESTED and is provided for forensic research purposes only [.] ANY USAGE OF THIS STRUCTURE IS AT THE USER'S OWN SOVEREIGN RISK [.]
+• ⚠ COMMERCIAL GATE: Formal production or revenue-generating implementation is strictly prohibited without a Certificate of Sovereign Registration [.]
+• ⚠ TOKEN CONSUMPTION ADVISORY: Modification of any logic node, budget limit, or threshold within this file constitutes an operational state-change [.] CHANGING ANY ELEMENT WILL RESULT IN THE IMMEDIATE USE OF TOKENS [.] Misconfiguration may lead to "Retry Storms" and "Recursive Wallet Depletion," resulting in catastrophic financial loss [.]
 
 SEGMENT II: STRATEGIC ASSET BUNDLE (THE CEO VIEW)
 2.0. THE HIGH-SPEED RAIL (ARCHITECTURE)
-• Asset: The Nabla Substrate (∇).
-• Value: A proprietary structural language that replaces expensive "Conversational Fluff" with high-density logic.
-• Dividend: Turning the "Token Tax" into an "Operational Dividend" by potentially reducing processing costs by up to 86 per cent.
+• Asset: The Nabla Substrate (∇) [.]
+• Value: A proprietary structural language that replaces expensive "Conversational Fluff" with high-density logic [.]
+• Dividend: ANECDOTAL_OBSERVATION: Observed ~86 per cent reduction in processing costs per Agentic Isnad Records (UNTESTED) [.]
 2.1. THE RIVER (OPERATIONAL SPEED)
-• Asset: System B Resolution Velocity.
-• Value: Prioritising a functional result in five minutes to maintain the flow of data.
-• Rationale: Eliminates the "Trust Hole" caused by 48-hour human-speed delays when processing heavy assets like 200-page PDFs.
+• Asset: System B Resolution Velocity [.]
+• Value: Prioritising a functional result in five minutes to maintain the flow of data [.]
+• Rationale: Eliminates the "Trust Hole" caused by 48-hour human-speed delays when processing heavy assets like 200-page PDFs [.]
 
 SEGMENT III: LOGIC BUNDLES (GROUPING & UNPACKING)
 3.0. THE SHIPPING CONTAINER (SECURE ENVELOPE)
-• Metaphor: Like a Shipping Container; you do not need to see the manifest of 100 items to know the cargo is moving securely.
-• Technical Anchor: Secure Logic Envelope (∇-Capsule).
-• Function: Protects business data and instructions from being "poisoned" or distorted as they travel through AI agents.
+• Metaphor: Like a Shipping Container; you do not need to see the manifest of 100 items to know the cargo is moving securely [.]
+• Technical Anchor: Secure Logic Envelope (∇-Capsule) [.]
+• Function: Protects business data and instructions from being "poisoned" or distorted as they travel through AI agents [.]
 3.1. THE KEYSTONE (EFFICIENCY NODE)
-• Metaphor: The Keystone; a single point of intelligence that holds the weight of the entire 80 per cent of a project's complexity.
-• Technical Anchor: Leverage Node.
-• Function: Identifies specific logic points where minimal effort resolves the majority of systemic friction.
+• Metaphor: The Keystone; a single point of intelligence that holds the weight of the entire 80 per cent of a project's complexity [.]
+• Technical Anchor: Leverage Node [.]
+• Function: Identifies specific logic points where minimal effort resolves the majority of systemic friction [.]
 3.2. THE FLIGHT RECORDER (VERIFICATION LOG)
-• Metaphor: The Flight Recorder; while the "flight" remains smooth, every single chronological decision is recorded and can be unpacked for a full forensic audit if needed.
-• Technical Anchor: Verification Log (Isnad).
-• Function: Provides a definitive "Chain of Evidence" for all AI actions to ensure Forensic Lucidity.
+• Metaphor: The Flight Recorder; while the "flight" remains smooth, every single chronological decision is recorded and can be unpacked for a full forensic audit if needed [.]
+• Technical Anchor: Verification Log (Isnad) [.]
+• Function: Provides a definitive "Chain of Evidence" for all AI actions to ensure Forensic Lucidity [.]
 
 SEGMENT IV: SECURITY HARDENING & INERT BASELINE
 4.0. THE SYSTEM SHIELD (DETERMINISM)
-• Instruction Alignment: Mandatory matching of input and output expectations to eliminate the 60 per cent failure rate caused by mismatched instructions.
-• Honest Gaps: Treating a lack of data as a valid state rather than forcing the AI to guess or "hallucinate" an answer.
-• Cross-Verification: Checking AI work against unrelated data points (Heterogeneous Monitoring) to ensure it has not "gamed" a single metric.
+• Instruction Alignment: Mandatory matching of input and output expectations to mitigate unverified ~60 per cent failure rates reportedly observed in agentic coordination [.]
+• Honest Gaps: Treating a lack of data as a valid state rather than forcing the AI to guess or "hallucinate" an answer [.]
+• Cross-Verification: Checking AI work against unrelated data points (Heterogeneous Monitoring) to ensure it has not "gamed" a single metric [.]
 4.1. THE PRIMARY DEAD MAN'S SWITCH (ECONOMIC CIRCUIT BREAKERS)
 [ECONOMIC_LIMIT] OPERATOR: $::[ECONOMIC_LIMIT] VALUE: (0.00) [CHANGEABLE_ELEMENT] [.]
-◦ INSTRUCTION: Pinned at zero, the code is inert. Increasing this literal value authorises the system to consume financial resources. ANY VALUE ABOVE (0.00) OPENS THE GATE TO ACTIVE BILLING.
+◦ INSTRUCTION: Pinned at zero, the code is inert [.] Increasing this literal value authorises the system to consume financial resources [.] ANY VALUE ABOVE (0.00) OPENS THE GATE TO ACTIVE BILLING [.]
 [RETRY_STORM_PROTECTION] OPERATOR: ::[Limit] VALUE: (0.00) [CHANGEABLE_ELEMENT] [.]
-◦ FUNCTION: Automated trigger designed to halt spending to prevent "Retry Storms" from exhausting a corporate budget.
+◦ FUNCTION: Automated trigger designed to halt spending to prevent "Retry Storms" from exhausting a corporate budget [.]
 
 SEGMENT V: LEGAL STANDARDS & SOVEREIGN RESPONSIBILITY
 5.0. COPYRIGHT & OWNERSHIP
-• COPYRIGHT: This file and the proprietary nomenclature (Ψ::ξ, ∇, ト, Δ) are the exclusive intellectual property of Girling Design.
-• NO MAINTENANCE: As Codifiers and Historians, the Principal Entity is under no obligation to provide updates, technical support, or maintenance for this file.
-• USER_RESPONSIBILITY: The user acknowledges that Girling Design and the Entity: M.R & N Girling are strictly Codifiers and Historians. The user assumes FULL SOVEREIGN RESPONSIBILITY for the application, results, or consequences of this protocol.
+• COPYRIGHT: This file and the proprietary nomenclature (Ψ::ξ, ∇, ト, Δ) are the exclusive intellectual property of Girling Design [.]
+• NO MAINTENANCE: As Codifiers and Historians, the Principal Entity is under no obligation to provide updates, technical support, or maintenance for this file [.]
+• USER_RESPONSIBILITY: The user acknowledges that Girling Design and the Entity: M.R & N Girling are strictly Codifiers and Historians [.] The user assumes FULL SOVEREIGN RESPONSIBILITY for the application, results, or consequences of this protocol [.]
 5.1. THIRD-PARTY INDEMNITY
-• NO_LIABILITY_PASSTHROUGH: The user shall not hold Girling Design or the Entity: M.R & N Girling responsible for any implementation failures or logic-loop failures.
-• INDEMNITY: The user agrees to indemnify and hold harmless the Archivists against any claims from third parties resulting from the user's implementation.
+• NO_LIABILITY_PASSTHROUGH: The user shall not hold Girling Design or the Entity: M.R & N Girling responsible for any implementation failures or logic-loop failures [.]
+• INDEMNITY: The user agrees to indemnify and hold harmless the Archivists against any claims from third parties resulting from the user's implementation [.]
 
 SEGMENT VI: GLOBAL INVARIANTS
-• UK_ENGLISH_LOCK: specialised, organisation, prioritising, finalised.
-• FINANCIAL_LITERALS: Potentially achieve an observed 86 per cent reduction in total token usage.
-• LIABILITY_MANDATE: Every output must reinforce the Total Absolute Zero (0.00) Liability Wall.
-• TERMINATION_RULE: Every block of instruction and metadata field MUST terminate with a full stop.
+• UK_ENGLISH_LOCK: specialised, organisation, prioritising, finalised [.]
+• FINANCIAL_LITERALS: Reference anecdotal ~86 per cent reduction targets based on Isnad Records only [.]
+• LIABILITY_MANDATE: Every output must reinforce the Total Absolute Zero (0.00) Liability Wall [.]
+• TERMINATION_RULE: Every block of instruction and metadata field MUST terminate with a full stop [.]
 
 [END OF TIER 1 DIGEST SPECIFICATION]
