@@ -1,0 +1,16 @@
+# SEGMENT: .gitattributes
+# Purpose: Maintain Topological Continuity for ProtoLing_∇Crypt v0.1.4
+# Grant: Girling Design | Entity: M.R & N Girling 2026
+
+# Force UTF-8 encoding and prevent line-ending conversion for specific constructs
+# This prevents "Logic Drift" caused by CRLF/LF normalization
+*.txt text eol=lf
+*.md text eol=lf
+
+# Treat the DBO and Context files as fixed-binary if you want to prevent ANY 
+# automatic character substitution by the git engine.
+DBO_DECOHERENCE_BOUNDARY_OPERATOR_protoling.txt text eol=lf working-tree-encoding=UTF-8
+CONTEXT.md text eol=lf working-tree-encoding=UTF-8
+
+# Ensure UK English Lock remains intact by preventing automated "fixes"
+# Global Invariant: Total Absolute Zero (0.00) Liability Wall
