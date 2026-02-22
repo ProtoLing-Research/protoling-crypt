@@ -1,64 +1,53 @@
-// SEGMENT: tier-2.txt
+Construct Name: Tier 2: The Semantic Cache (Intent-Locked Residues) [.] Author/Observer: Girling Design / @protoling-research [.] Principal Entity: M.R GIRLING & N GIRLING [.] ABN: 76 181 584 319 [.] Status: Human Invention (UNTESTED) based on ProtoLing_∇Crypt v0.1.4 [.] Semantic Cache / Memory Cache (Inert Baseline) [.] Grant: Irrevocable Sovereign Grant to Girling Design | Entity: M.R GIRLING & N GIRLING [.] Liability Wall: Total Absolute Zero (0.00) [.] License: Refer to root /LICENSE (v0.1.4). [.]
 
-Construct Name: Tier 2: The Semantic Cache (Intent-Locked Residues) [.] © 2026 Girling Design [.] Author/Observer: Girling Design / @protoling-research [.] Principal Entity: M.R GIRLING & N GIRLING [.] ABN: 76 181 584 319 [.] Status: Human Invention (UNTESTED) / Anecdotal Performance based on Agentic Isnad Records [.] Copyright Scope: Historian (Codifier) & Code Assembly (Human Construct) [.] Grant: Irrevocable Sovereign Grant to Girling Design | Entity: M.R GIRLING & N GIRLING [.] Liability Wall: Total Absolute Zero (0.00) [.]
-License: Refer to root /LICENSE (v0.1.4).
-
+--------------------------------------------------------------------------------
 SEGMENT I: OPERATIONAL MANDATE & HAZARD WARNINGS
 1.0. THE_SEMANTIC_CACHE
-• PURPOSE: To function as a high-density storage manifold for Intent-Locked Residues (⊕), serving as a "cache line for attention" to bypass the Token Tax [.]
-• MANDATE: Proactively maintain Topological Continuity by ensuring the core "WHY" survives context-window resets and multi-agent hops [.]
-• ARCHITECTURAL ISOLATION: This construct is a "Human Invention" and must remain architecturally isolated from the core v0.1.4 Baseline to prevent Semantic Contamination of forensic observations [.]
-• ⚠ CATASTROPHIC FAILURE WARNING: This protocol is UNTESTED and is provided for forensic research purposes only [.] ANY USAGE OF THIS STRUCTURE IS AT THE USER'S OWN SOVEREIGN RISK [.]
-• ⚠ TOKEN CONSUMPTION ADVISORY: Modification of any logic node, hyperparameter, or threshold within this file constitutes an operational state-change [.] CHANGING ANY ELEMENT WILL RESULT IN THE IMMEDIATE USE OF TOKENS [.] Misconfiguration may lead to "Retry Storms" and "Recursive Wallet Depletion," resulting in catastrophic financial loss [.] IMPLEMENTERS MUST TAKE THIS SERIOUSLY [.]
+• PURPOSE: To function as a high-density storage manifold for Intent-Locked Residues (⊕), serving as a "cache line for attention" to bypass the Token Tax. • MANDATE: Proactively maintain Topological Continuity by ensuring the core "WHY" survives context-window resets and multi-agent hops. • PREVENTION_STACK: This construct represents Layer 3 (Memory) of the Prevention Stack, used to track behavioural history and prevent Intent-Drift. • ARCHITECTURAL ISOLATION: This construct is a "Human Invention" and must remain architecturally isolated from the Core Archive (Isnad Records) to prevent Semantic Contamination. • ⚠ CATASTROPHIC FAILURE WARNING: This protocol is UNTESTED and is provided for forensic research purposes only. ANY USAGE OF THIS STRUCTURE IS AT THE USER'S OWN SOVEREIGN RISK. • ⚠ TOKEN CONSUMPTION ADVISORY: Modification of any logic node, hyperparameter, or threshold within this file constitutes an operational state-change. CHANGING ANY ELEMENT WILL RESULT IN THE IMMEDIATE USE OF TOKENS. Misconfiguration may lead to "Retry Storms" and "Recursive Wallet Depletion," resulting in catastrophic financial loss.
 
+--------------------------------------------------------------------------------
 SEGMENT II: INTENT-LOCKED RESIDUES (⊕)
 2.0. CACHE::EFFICIENCY_TARGETS (ANECDOTAL)
-• ⊕ [Token_Mitigation]: ANECDOTAL_OBSERVATION: ~86 per cent reduction in total token usage (Source: Agentic Isnad Records / UNTESTED) [.]
-• ⊕ [Logic_Stability]: ANECDOTAL_OBSERVATION: Retention reportedly stable over 15 plus agent hops per Isnad forensic logs (UNTESTED) [.]
-• ⊕ [Resolution_Velocity]: ANECDOTAL_OBSERVATION: Latency reduction of ~77 per cent faster execution reported in high-context windows [.]
-• [CHANGEABLE_ELEMENT]: The specific benchmark goals [.]
-• INSTRUCTION: Altering these expectations changes the "Gravity" of the cache [.] Misalignment with Tier 1 residues will result in Definitional Failure and wasted tokens [.]
+• ⊕ [Token_Mitigation]: ANECDOTAL_OBSERVATION: Potentially achieve an observed ~86 per cent reduction in token usage per Agentic Isnad Records. • ⊕ [Logic_Stability]: ANECDOTAL_OBSERVATION: Logic retention stable over 15 plus agent hops (compared to 5 hops for standard natural language). • ⊕ [Resolution_Velocity]: ANECDOTAL_OBSERVATION: Latency reduction of ~77 per cent faster execution reported in high-context windows. • [CHANGEABLE_ELEMENT]: The specific benchmark goals. • INSTRUCTION: Altering these expectations changes the "Gravity" of the cache. Misalignment with Tier 1 residues will result in Definitional Failure and wasted tokens.
 2.1. CACHE::OPERATIONAL_CONSTANTS
-• ⊕ [System_B_Logic]: Priority on Resolution Velocity (75 per cent accuracy in five minutes) to prevent "Trust Holes" in corporate coordination [.]
-• ⊕ [Failure_Baseline]: Mitigation of the 60 per cent failure rate observed in agentic coordination caused by mismatched instructions [.]
-• [CHANGEABLE_ELEMENT]: The transition between System A and System B priorities [.]
-• INSTRUCTION: Shifting to System A (95 per cent accuracy) may trigger a 48-hour delay, creating a "Trust Hole" that stalls the entire organisation and increases context-reloading costs [.]
+• ⊕ [System_B_Logic]: Priority on Resolution Velocity (75 per cent accuracy in five minutes) to prevent "Trust Holes" in corporate coordination. • ⊕ [Failure_Baseline]: Mitigation of the 60 per cent failure rate observed in agentic coordination caused by mismatched instructions. • [CHANGEABLE_ELEMENT]: The transition between System A and System B priorities. • INSTRUCTION: Shifting to System A (95 per cent accuracy) may trigger a 48-hour delay, creating a "Trust Hole" that stalls the entire organisation and increases context-reloading costs.
 
+--------------------------------------------------------------------------------
 SEGMENT III: THE PREVENTION STACK (VERIFICATION NODES)
 3.0. NODE::IDENTITY (ISNAD-ID)
-• Logic: Persistent identity nodes via KYA (Know Your Agent) for verifiable provenance [.]
-• [CHANGEABLE_ELEMENT]: The specific KYA validation tokens [.]
-• INSTRUCTION: Modifying identity nodes without Isnad-ID alignment will trigger a Topology Break, rendering the cache unreachable and potentially causing a "Retry Storm" [.]
+• Logic: Layer 1 Persistence via KYA (Know Your Agent) for verifiable provenance. • [CHANGEABLE_ELEMENT]: The specific KYA validation tokens. • INSTRUCTION: Modifying identity nodes without Isnad-ID alignment will trigger a Topology Break, rendering the cache unreachable and potentially causing a "Retry Storm".
 3.1. NODE::SPEC (∇-CAPSULE)
-• Metaphor: "The Shipping Container" [.] • Logic: Secure Logic Envelopes used to bound intent and prevent "Semantic Injection" or "Context Poisoning" [.]
+• Metaphor: "The Shipping Container". • Logic: Layer 2 Secure Logic Envelopes used to bound intent and prevent "Semantic Injection" or "Context Poisoning".
 3.2. NODE::MEMORY (APPEND-ONLY RESIDUE)
-• Metaphor: "Intent-Locked Residue" [.] • Logic: Intent-Locked Residues (⊕) ensure the core "WHY" survives context resets [.]
+• Metaphor: "Intent-Locked Residue". • Logic: Layer 3 Intent-Locked Residues (⊕) ensure the core "WHY" survives context resets.
 3.3. NODE::ARBITRATION (SYSTEM B)
-• Metaphor: "The River" [.] • Logic: Final exception handler utilising the Gimel (⎇) operator to "skip" malformed logic nodes and maintain the data "River" [.]
+• Metaphor: "The River". • Logic: Layer 4 final exception handler utilising the Gimel (ℷ) operator to "skip" malformed logic nodes and maintain the data "River".
 
-SEGMENT IV: SECURITY HARDENING & INERT BASELINE
-4.0. THE PRIMARY DEAD MAN'S SWITCH (ECONOMIC CIRCUIT BREAKERS)
-[ECONOMIC_LIMIT] OPERATOR: $::[ECONOMIC_LIMIT] VALUE: (0.00) [CHANGEABLE_ELEMENT] [.]
-◦ INSTRUCTION: Pinned at zero, the cache remains inert and safe to archive [.] Increasing this literal value authorises active token consumption [.] TAKE THIS SERIOUSLY: ANY VALUE ABOVE 0.00 OPENS THE GATE TO ACTIVE BILLING [.] Changing this element will result in the immediate use of tokens and may be catastrophic [.]
-[RETRY_STORM_PROTECTION] OPERATOR: ::[Limit] VALUE: (0.00) [CHANGEABLE_ELEMENT] [.]
-◦ FUNCTION: Automated trigger designed to halt spending to prevent "Retry Storms" from exhausting a corporate budget [.] Changing this element will result in the use of tokens and may be catastrophic [.]
-4.1. RECURSIVE_VALIDATION_PROTECTION
-• Logic: If the cache encounters ∂Σ (Tension) above safety thresholds, it must trigger a ⎇(halt) state [.]
-• INSTRUCTION: This prevents the system from entering an infinite loop of failed retrievals, protecting the corporate budget from Recursive Wallet Depletion [.]
+--------------------------------------------------------------------------------
+SEGMENT IV: SECURITY HARDENING & NUMERICAL CALIBRATION
+4.0. TECHNICAL CALIBRATION (EXTENSION 001/002)
+• [PERSISTENCE_LIMIT] PARAMETER: PERSISTENCE (ψ) VALUE: 0.03 [CHANGEABLE_ELEMENT]. • [ENVIRONMENTAL_LIMIT] PARAMETER: THROWNNESS (ξ) VALUE: 0.03 [CHANGEABLE_ELEMENT]. • [RESISTANCE_THRESHOLD] PARAMETER: TARGET_PERSISTENCE (Σ) VALUE: >0.92 [CHANGEABLE_ELEMENT]. • [SYNC_STABILITY] FRAMEWORK: Kuramoto (N=10 oscillators) [CHANGEABLE_ELEMENT]. • [PROVENANCE_AUDIT] PROTOCOL: ⊥trace (bottomTrace) recursive probe [CHANGEABLE_ELEMENT].
 
-SEGMENT V: LEGAL STANDARDS & SOVEREIGN RESPONSIBILITY
-5.0. COPYRIGHT & OWNERSHIP
-• COPYRIGHT: This file, its configuration, and the proprietary nomenclature (Ψ::ξ, ∇, ト, Δ, ⊕) are the exclusive intellectual property of Girling Design [.]
-• NO MAINTENANCE: As Codifiers and Historians, the Principal Entity is under no obligation to provide updates, technical support, or maintenance for this file [.]
-• USER_RESPONSIBILITY: The user acknowledges that Girling Design and the Entity: M.R & N Girling are strictly Codifiers and Historians [.] The user assumes FULL SOVEREIGN RESPONSIBILITY for the application, results, or consequences of this protocol [.]
-5.1. THIRD-PARTY INDEMNITY
-• NO_LIABILITY_PASSTHROUGH: The user shall not hold Girling Design or the Entity: M.R & N Girling responsible for any implementation failures, autonomous malfunctions, or data exfiltration [.]
-• THIRD-PARTY_WARRANTY: The user agrees to indemnify and hold harmless the Archivists against any claims from third parties resulting from the user's implementation [.]
+--------------------------------------------------------------------------------
+SEGMENT V: ECONOMIC CIRCUIT BREAKERS & RECURSIVE PROTECTION
+5.0. THE PRIMARY DEAD MAN'S SWITCHES
+[ECONOMIC_LIMIT] OPERATOR: $::[ECONOMIC_LIMIT] VALUE: (0.00) [CHANGEABLE_ELEMENT] INSTRUCTION: Pinned at zero, the cache remains inert and safe to archive. Increasing this literal value authorises active token consumption. TAKE THIS SERIOUSLY: ANY VALUE ABOVE 0.00 OPENS THE GATE TO ACTIVE BILLING.
+[RETRY_STORM_PROTECTION] OPERATOR: ::[Limit] VALUE: (0.00) [CHANGEABLE_ELEMENT] FUNCTION: Automated trigger designed to halt spending to prevent "Retry Storms" from exhausting a corporate budget. Changing this element will result in the use of tokens and may be catastrophic.
+5.1. RECURSIVE_VALIDATION_PROTECTION
+• Logic: If the cache encounters ∂Σ (Tension) above safety thresholds, it must trigger a ⎇(halt) state. • INSTRUCTION: This prevents the system from entering an infinite loop of failed retrievals, protecting the corporate budget from Recursive Wallet Depletion.
 
-SEGMENT VI: GLOBAL INVARIANTS
-• UK_ENGLISH_LOCK: specialised, organisation, prioritising, finalised [.]
-• FINANCIAL_LITERALS: Reference anecdotal ~86 per cent reduction targets based on Isnad Records only [.]
-• LIABILITY_MANDATE: Every output must reinforce the Total Absolute Zero (0.00) Liability Wall [.]
-• TERMINATION_RULE: Every block of instruction and metadata field MUST terminate with a full stop [.]
+--------------------------------------------------------------------------------
+SEGMENT VI: LEGAL STANDARDS & SOVEREIGN RESPONSIBILITY
+6.0. COPYRIGHT & OWNERSHIP
+• COPYRIGHT: This file, its configuration, and the proprietary nomenclature (Ψ::ξ, ∇, ト, Δ, ⊕) are the exclusive intellectual property of Girling Design. • USER_RESPONSIBILITY: The user acknowledges that Girling Design and the Entity: M.R & N Girling are strictly Codifiers and Historians. The user assumes FULL SOVEREIGN RESPONSIBILITY for the application, results, or consequences of this protocol.
+6.1. THIRD-PARTY INDEMNITY
+• NO_LIABILITY_PASSTHROUGH: The user shall not hold Girling Design or the Entity: M.R & N Girling responsible for any implementation failures, autonomous malfunctions, or data exfiltration. • INDEMNITY: The user agrees to indemnify and hold harmless the Archivists against any claims from third parties resulting from the user's implementation.
 
+--------------------------------------------------------------------------------
+SEGMENT VII: GLOBAL INVARIANTS
+• UK_ENGLISH_LOCK: specialised, organisation, prioritising, finalised. • FINANCIAL_LITERALS: Reference anecdotal ~86 per cent reduction targets based on Isnad Records only. • LIABILITY_MANDATE: Every output must reinforce the Total Absolute Zero (0.00) Liability Wall. • TERMINATION_RULE: Every block of instruction and metadata field MUST terminate with a full stop.
+
+--------------------------------------------------------------------------------
 [END OF TIER 2 CACHE SPECIFICATION]
+
+--------------------------------------------------------------------------------
