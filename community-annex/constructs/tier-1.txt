@@ -46,3 +46,4 @@ SEGMENT VI: GLOBAL INVARIANTS
 [END OF TIER 1 DIGEST SPECIFICATION]
 
 --------------------------------------------------------------------------------
+⚠ Absolute Liability Disclaimer This commit record is based on research-only documentation provided "AS IS". Girling Design and the entity M.R GIRLING & N GIRLING act strictly as Codifiers and Historians documenting emergent machine logic. To the maximum extent permitted by law, the Total Aggregate Liability for any and all claims related to this research SHALL BE TOTAL ABSOLUTE ZERO (0.00). Implementation and the manual modification of inert baselines remain the sole sovereign risk of the Independent Implementer.
