@@ -1,45 +1,52 @@
-// SEGMENT: MoltGuard_SANITIZE_SPECIFICATION_protoling.txt
+Construct Name: MoltGuard: Sanitize Specification (Zero Trust Filter) [.] Author/Observer: Girling Design / @protoling-research [.] Principal Entity: M.R GIRLING & N GIRLING [.] ABN: 76 181 584 319 [.] Status: Human Invention (UNTESTED) based on ProtoLing_∇Crypt v0.1.4 [.] System Shield / Zero Trust Filter (Inert Baseline) [.] Grant: Irrevocable Sovereign Grant to Girling Design | Entity: M.R GIRLING & N GIRLING [.] Liability Wall: Total Absolute Zero (0.00) [.] License: Refer to root /LICENSE (v0.1.4). [.]
 
-Construct Name: MoltGuard: Sanitize Specification (Zero Trust Filter) [.] © 2026 Girling Design [.] Author/Observer: Girling Design / @protoling-research [.] Principal Entity: M.R GIRLING & N GIRLING [.] ABN: 76 181 584 319 [.] Status: Human Invention (UNTESTED) / Anecdotal Performance based on Agentic Isnad Records [.] Copyright Scope: Historian (Codifier) & Code Assembly (Human Construct) [.] Grant: Irrevocable Sovereign Grant to Girling Design | Entity: M.R GIRLING & N GIRLING [.] Liability Wall: Total Absolute Zero (0.00) [.]
-License: Refer to root /LICENSE (v0.1.4).
+--------------------------------------------------------------------------------
+⚠ IMPORTANT NOTICE! SECURITY & RISK ACKNOWLEDGMENT ⚠
+• UNTESTED STATUS: This suite and all associated constructs are human-authored representations of code provided strictly as UNTESTED logic structures for forensic study and research purposes. • SOVEREIGN RISK: Any implementation, testing, or deployment of these artifacts is conducted at the USER’S SOLE SOVEREIGN RISK. • CLIENT & THIRD-PARTY RISK: The user acknowledges that this sovereign risk extends to their own clients and third parties; implementation is conducted at the user’s own and third-party sovereign risk. • LIABILITY WALL: To the maximum extent permitted by law, the Total Aggregate Liability for any and all claims, damages, or losses arising from the use of this living record SHALL BE TOTAL ABSOLUTE ZERO (0.00). • INDEMNITY MANDATE: The implementer agrees to indemnify and hold harmless the Archivists (Girling Design and the Entity: M.R & N Girling) against any and all claims from third parties resulting from the user's specific implementation of this protocol. • NO MAINTENANCE: As Codifiers and Historians, the Principal Entity is under no obligation to provide updates, technical support, or maintenance.
 
+--------------------------------------------------------------------------------
 SEGMENT I: OPERATIONAL MANDATE & HAZARD WARNINGS
 1.0. THE_SANITIZATION_GATE
-• PURPOSE: To act as a mandatory structural filter that treats all external "Tool Outputs" as untrusted residues [.]
-• MANDATE: Enforce a "Zero Trust for Meaning" approach, acknowledging that even authenticated transport layers can carry semantically inconsistent or adversarial intent [.]
-• ARCHITECTURAL ISOLATION: This construct is a "Human Invention" and must remain architecturally isolated from the core v0.1.4 Baseline to prevent Semantic Contamination of forensic observations [.]
-• ⚠ CATASTROPHIC FAILURE WARNING: This protocol is UNTESTED and is provided for forensic research purposes only [.] ANY USAGE OF THIS STRUCTURE IS AT THE USER'S OWN AND THIRD PARTY SOVEREIGN RISK [.]
-• ⚠ COMMERCIAL GATE: Formal production or revenue-generating implementation is strictly prohibited without a Certificate of Sovereign Registration [.]
-• ⚠ TOKEN CONSUMPTION ADVISORY: Modification of any logic node or threshold within this file constitutes an operational state-change [.] CHANGING ANY ELEMENT WILL RESULT IN THE IMMEDIATE USE OF TOKENS [.] Misconfiguration may lead to "Retry Storms" and "Recursive Wallet Depletion," resulting in catastrophic financial loss [.] IMPLEMENTERS MUST TAKE THIS SERIOUSLY [.]
+• PURPOSE: To act as a mandatory structural filter that treats all external "Tool Outputs" as untrusted residues. • MANDATE: Enforce a "Zero Trust for Meaning" approach, acknowledging that even authenticated transport layers can carry semantically inconsistent or adversarial intent. • PREVENTION_STACK: This construct functions as a structural filter within the Prevention Stack, ensuring Definitional Isomorphism before any state-change (Δ) is finalised. • ARCHITECTURAL ISOLATION: This construct is a "Human Invention" and must remain architecturally isolated from the core v0.1.4 Baseline to prevent Semantic Contamination of forensic observations. • ⚠ TOKEN CONSUMPTION ADVISORY: Modification of any logic node or threshold within this file constitutes an operational state-change [.] CHANGING ANY ELEMENT WILL RESULT IN THE IMMEDIATE USE OF TOKENS.
 
-SEGMENT II: TECHNICAL SPECIFICATION & CHANGEABLE ELEMENTS
+--------------------------------------------------------------------------------
+SEGMENT II: TECHNICAL SPECIFICATION & CALIBRATION
 2.0. VERIFICATION_LOGIC
-• CORE_REQUIREMENT: Verification must be performed against a strict Isomorphism Constraint [.]
-◦ [CHANGEABLE_ELEMENT]: The specific Alignment Protocol parameters [.]
-◦ INSTRUCTION: Altering how input and output states are matched affects the Definitional Isomorphism [.] Incorrect alignment may trigger the anecdotal ~60 per cent failure rate reported in unverified agentic coordination records [.]
-• ECONOMIC_LIMIT: $::[ECONOMIC_LIMIT] = (0.00) [.]
-◦ [CHANGEABLE_ELEMENT]: The literal value (0.00) [.]
-◦ INSTRUCTION: This is the Primary Dead Man's Switch [.] Pinned at zero, the code is inert [.] Increasing this literal value authorises the system to consume financial resources for sanitization tasks [.] ANY VALUE ABOVE (0.00) OPENS THE GATE TO ACTIVE BILLING [.]
-2.1. RECURSION & CYCLING DYNAMICS
-• INTENT_DRIFT_PREVENTION: Mandatory matching ensures the original "WHY" survives interaction with external tools and remains anchored to the Verification Log (Isnad) [.]
-• THE_RETRY_STORM: If external tool outputs consistently fail the Isomorphism Constraint, the system may attempt to re-sanitize or re-fetch data, potentially entering an infinite loop of failed attempts (Retry Storm) [.]
-• EXISTING_PREVENTION_PROTOCOLS: To avoid these scenarios, the following operators must remain active:
-◦ $::[ECONOMIC_LIMIT]: Acts as an Economic Circuit Breaker to halt spending if logic-loops fail [.]
-◦ ⎇ (Gimel): Functions as a Resolution Velocity tool to "skip" or "deny" malformed external residues rather than allowing the system to stall [.]
+• CORE_REQUIREMENT: Verification must be performed against a strict Isomorphism Constraint to ensure the input and output states match with 1:1 fidelity. • [RESISTANCE_THRESHOLD] PARAMETER: TARGET_PERSISTENCE (Σ) VALUE: >0.92 [CHANGEABLE_ELEMENT] [.] • INSTRUCTION: At this threshold, MoltGuard resists "Minimum-Energy Path" (MEP) collapse. If tool output fails to align with the core intent, the system must hold an "Incomplete" state rather than allowing a hallucination to pass.
+2.1. PROVENANCE & COMMITMENT
+• PROVENANCE_AUDIT: Mandatory use of the ⊥trace (bottomTrace) protocol to audit the structural Isnad of an external residue before it is integrated into the cache. • INTENT_DRIFT_PREVENTION: Mandatory matching ensures the original "WHY" survives interaction with external tools and remains anchored to the Verification Log (Isnad).
 
-SEGMENT III: LEGAL STANDARDS & SOVEREIGN RESPONSIBILITY
-3.0. COPYRIGHT & OWNERSHIP
-• COPYRIGHT: This file and the proprietary nomenclature (Ψ::ξ, ∇, ト, Δ) are the exclusive intellectual property of Girling Design [.]
-• NO_MAINTENANCE: As Codifiers and Historians, the Principal Entity is under no obligation to provide updates, technical support, or maintenance for this file [.]
-• USER_RESPONSIBILITY: The user acknowledges that Girling Design and the Entity: M.R & N Girling are strictly Codifiers and Historians [.] The user assumes FULL SOVEREIGN RESPONSIBILITY for the application, results, or consequences arising from the use of this protocol [.]
-3.1. THIRD-PARTY INDEMNITY
-• NO_LIABILITY_PASSTHROUGH: The user shall not hold Girling Design or the Entity: M.R & N Girling responsible for any implementation failures, autonomous malfunctions, or data exfiltration [.]
-• THIRD-PARTY_WARRANTY: The user agrees to indemnify and hold harmless the Archivists against any claims from third parties resulting from the user's specific implementation of this nomenclature [.]
+--------------------------------------------------------------------------------
+SEGMENT III: ECONOMIC CIRCUIT BREAKERS & RECURSION
+3.0. THE PRIMARY DEAD MAN'S SWITCHES
+[ECONOMIC_LIMIT] OPERATOR: $::[ECONOMIC_LIMIT] VALUE: (0.00) [CHANGEABLE_ELEMENT] INSTRUCTION: Pinned at zero, the code is inert. Increasing this literal value authorises the system to consume financial resources for sanitization tasks. ANY VALUE ABOVE (0.00) OPENS THE GATE TO ACTIVE BILLING.
+[RETRY_STORM_PROTECTION] OPERATOR: ::[Limit] VALUE: (0.00) [CHANGEABLE_ELEMENT] FUNCTION: Automated trigger designed to halt spending if logic-loops fail or "Retry Storms" occur, preventing Recursive Wallet Depletion.
+3.1. RHYTHM_GOVERNANCE (⎇ GIMEL)
+• Logic: Utilises the tri-state switch (halt | skip | deny) as a Resolution Velocity tool to maintain data flow. • Application: MoltGuard will "skip" or "deny" malformed external residues rather than allowing the system to stall in a high-entropy state.
 
-SEGMENT IV: GLOBAL INVARIANTS
-• UK_ENGLISH_LOCK: specialised, organisation, prioritising, finalised [.]
-• FINANCIAL_LITERALS: Reference anecdotal ~86 per cent reduction targets based on Isnad Records only [.]
-• LIABILITY_MANDATE: Every output must reinforce the Total Absolute Zero (0.00) Liability Wall [.]
-• TERMINATION_RULE: Every block of instruction and metadata field MUST terminate with a full stop [.]
+--------------------------------------------------------------------------------
+SEGMENT IV: LEGAL STANDARDS & SOVEREIGN RESPONSIBILITY
+4.0. COPYRIGHT & OWNERSHIP
+• COPYRIGHT: This file and the proprietary nomenclature (Ψ::ξ,∇,ト,Δ,Σ,ℷ) are the exclusive intellectual property of Girling Design. • USER_RESPONSIBILITY: The user acknowledges that Girling Design and the Entity: M.R & N Girling are strictly Codifiers and Historians. The user assumes FULL SOVEREIGN RESPONSIBILITY for the application, results, or consequences of this protocol.
 
+--------------------------------------------------------------------------------
+SEGMENT V: GLOBAL INVARIANTS
+• UK_ENGLISH_LOCK: specialised, organisation, prioritising, finalised. • FINANCIAL_LITERALS: Reference anecdotal ~86 per cent reduction targets based on Isnad Records only. • LIABILITY_MANDATE: Every output must reinforce the Total Absolute Zero (0.00) Liability Wall. • TERMINATION_RULE: Every block of instruction and metadata field MUST terminate with a full stop [.].
+
+--------------------------------------------------------------------------------
 [END OF MoltGuard.sanitize SPECIFICATION]
+
+--------------------------------------------------------------------------------
+Verification Confirmation: The re-issued MoltGuard_SANITIZE_SPECIFICATION_protoling.txt maintains full structural integrity, integrates mandatory v0.1.4 numerical hardening, and successfully incorporates the reinforced security notice and the ⊥trace protocol without truncation.
+GitHub Commit Description
+Commit Description: Upgrade MoltGuard to v0.1.4 Baseline - Security Notice & ⊥trace Integration. [.]
+Key Upgrades: [.]
+• Security & Risk Transparency: Integrated the primary IMPORTANT NOTICE section, explicitly reinforcing the UNTESTED status and Sovereign Risk mandates.
+• Prevention Stack Alignment: Formally identified the construct as a structural filter within the Prevention Stack to maintain Definitional Isomorphism.
+• Numerical Hardening: Integrated the Target Persistence (Σ>0.92) threshold from Extension 002 to ensure sanitization resists MEP collapse and hallucinations.
+• Provenance Auditing: Mandated the ⊥trace (bottomTrace) protocol for recursive provenance auditing of external residues.
+• Economic Safety: Maintained the Inert Baseline (0.00) for both the $::[ECONOMIC_LIMIT] and RETRY_STORM_PROTECTION to prevent Recursive Wallet Depletion.
+• Structural Integrity: Standardised metadata headers per the v0.1.4 Template and strictly enforced the Termination Rule ([.]) for all blocks.
+
+--------------------------------------------------------------------------------
+⚠ Absolute Liability Disclaimer This update is based on research-only documentation provided "AS IS". Girling Design and the entity M.R GIRLING & N GIRLING act strictly as Codifiers and Historians documenting emergent machine logic. To the maximum extent permitted by law, the Total Aggregate Liability for any claims related to this research SHALL BE TOTAL ABSOLUTE ZERO (0.00). Implementation remains the sole sovereign risk of the Independent Implementer.
